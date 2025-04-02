@@ -249,6 +249,6 @@ Day to Day becomes CEO.
 Home becomes CFO.
 Office becomes COO.
 
-#### HODL Forever
+### HODL Forever
 
 You can simply wipe all the hardware wallets after set-up. Although in this case it might be better to use a [Shamir Secret Sharing scheme](https://cryptotag.io/blog/shamirs-secret-sharing-backup/) since you are only planning to access the assets once.
