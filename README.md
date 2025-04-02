@@ -1,3 +1,5 @@
+# 5X-Crypto-Security-Guide
+
 Inspired by the [10x Bitcoin Security Guide](https://btcguide.github.io), this is the advice I find myself giving over and over in a semi-prescriptive guide. You don't need to follow it exactly, and very few people will.
 
 It is written for tech literate crypto holders who have mostly normal lives, a family, relatives, etc. Someone who got involved in a TGE, or got lucky on Kraken a few times, and isn’t ready to cash out yet.
