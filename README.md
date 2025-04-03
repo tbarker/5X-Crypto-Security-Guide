@@ -2,24 +2,24 @@
 
 Inspired by the [10x Bitcoin Security Guide](https://btcguide.github.io), this is the advice I find myself giving over and over in a semi-prescriptive guide. You don't need to follow it exactly, and very few people will.
 
-It is written for tech literate crypto holders who have mostly normal lives, a family, relatives, etc. Someone who got involved in a TGE, or got lucky on Kraken a few times, and isn’t ready to cash out yet.
+It is written for tech-literate crypto holders who have mostly normal lives, a family, relatives, etc. Someone who got involved in a TGE, or got lucky on Kraken a few times, and isn't ready to cash out yet.
 
-We’re only trying to cover your “treasury”. The funds you don’t trade, and access every other month or so.
+We're only trying to cover your "treasury". The funds you don't trade, and access every other month or so.
 
 I am not rich enough to need this. This is how I wish my wealthy friends would get themselves organised. If people like it, I'll expand it and offer properly worked out variations. Maybe vibe code an interactive wizard :)
 
 ## Assumptions
 
-- That you don’t want, or cannot have, others operating wallets for you. (If you can, also look at [how Vitalik manages his Ether](https://x.com/VitalikButerin/status/1785562273433387320).)
+- That you don't want, or cannot have, others operating wallets for you. (If you can, also look at [how Vitalik manages his Ether](https://x.com/VitalikButerin/status/1785562273433387320).)
 - Not overly worried about the State seizing assets.
-- You’d like to preclude casual wrench attacks. But are not concerned by coordinated attacks involving multiple locations.
+- You'd like to preclude casual wrench attacks. But are not concerned by coordinated attacks involving multiple locations.
 - Access to assets within 24 hours while not travelling.
 - You do care about what happens if you are dead or incapacitated.
 - $150k to 5m in assets to protect
 
 ## Required Knowledge
 
-To start this guide you should know:-
+To start this guide you should know:
 
 * How to use a hardware wallet
 * What a seedphrase is
@@ -37,7 +37,7 @@ To start this guide you should know:-
 
 ## Day to Day
 
-When a 5X Security Implementoor, decides to access their funds. That day will look roughly like this.
+When a 5X Security Implementer decides to access their funds. That day will look roughly like this.
 
 Get up, shower, get dressed, have breakfast. Take out their phone and grab a hardware wallet, setup a transaction on a multisig wallet. Read the newspaper.
 
@@ -51,15 +51,15 @@ Sound acceptable? Read on!
 
 ## Hygiene and Holdings 
 
-Take a passphrase protected spreadsheet or similar, and then record all your crypto assets.
+Take a passphrase-protected spreadsheet or similar, and then record all your crypto assets.
 
-These should divided into Holdings. Each Holding will be funds you are happy to have publicly linked and want to manage together. Most people will only have one **Holding**.
+These should be divided into Holdings. Each Holding will be funds you are happy to have publicly linked and want to manage together. Most people will only have one **Holding**.
 
-In doing this you should consider..
-- KYC status. Who knows it’s yours?
+In doing this you should consider:
+- KYC status. Who knows it's yours?
 - Tax
 - Visibility
-- Taint from an hack / impropriety
+- Taint from a hack / impropriety
 
 ## Passphrases
 
@@ -67,7 +67,7 @@ A passphrase is an optional, advanced security feature that allows you to create
 
 With passphrases you can have one single seed with multiple different wallets. Each wallet would be designated by a different passphrase.
 
-We use one passphrase for each wallet to deny the **Guardians** (more on that later) of the back-up plates the ability to use them independently
+We use one passphrase for each wallet to deny the **Guardians** (more on that later) of the back-up plates the ability to use them independently.
 
 We will use two different passphrases:
 - **Personal**, this will be lost with you if you die or are lying in a coma.
@@ -85,11 +85,11 @@ These are the “life prerequisites” of the 5X security model. Most of them ar
 
 A rented box in a professionally secured vault. Available from many providers, your bank probably does this.
 
-In most jurisdictions, the existence of this box will be disclosed to the authorities. However the upside is that you can make arrangements for access to this box in the event of you death or incapacity.
+In most jurisdictions, the existence of this box will be disclosed to the authorities. However, the upside is that you can make arrangements for access to this box in the event of your death or incapacity.
 
 You won’t need to visit this very often, so why not place it a good distance from your home? If you are worried about over-aggressive authorities, why not rent a box in another country you like to visit?
 
-Or a deep hole in the local forrest that's described to your heirs. Do what works for you, but don't complain if a treasure hunter digs it up in a few years :)
+Or a deep hole in the local forest that's described to your heirs. Do what works for you, but don't complain if a treasure hunter digs it up in a few years :)
 
 #### Home
 Just where you wake up every day. Try to keep its location off the internet. You'll be keeping a **Home Safe** there and a **Desk Safe**.
@@ -106,14 +106,14 @@ You don't need to engage a blue-ribbon law firm. The consumer charity Which? run
 ### Safes
 
 #### Home Safe
-A safe place in (or very near) your home. Ideally a properly installed safe if you have time and money to install one. A hidden floor safe encased in concrete is a great investment if you have a lot of valuables to protect. But there's a huge variety of affordable options, including, wall safes, lock boxes, even fake wall sockets, plants, and books
+A safe place in (or very near) your home. Ideally a properly installed safe if you have time and money to install one. A hidden floor safe encased in concrete is a great investment if you have a lot of valuables to protect. But there's a huge variety of affordable options, including wall safes, lock boxes, even fake wall sockets, plants, and books.
 
 Or, you could seal everything in a mason jar to bury on your land :)
 
 #### Desk Safes
-A safe place that is easy to access while working at a desk. A lock box or a draw safe. Something that can’t be taken or tampered without raising an alert. An office locker would do.
+A safe place that is easy to access while working at a desk. A lock box or a desk drawer safe. Something that can't be taken or tampered with without raising an alert. An laptop or office locker would do.
 
-Ideally a place you can fix a hardware wallet to with a chain. If you can't chain an item in place, you can always AirTag the items and put them in a draw.
+Ideally a place you can fix a hardware wallet to with a chain. If you can't chain an item in place, you can always AirTag the items and put them in a drawer.
 
 ## People
 
@@ -121,7 +121,7 @@ Ideally a place you can fix a hardware wallet to with a chain. If you can't chai
 
 Have two trustworthy independent friends. They will each hold one of your steel backup plates.
 
-They should know the circumstances under which they should hand them over, eg. to you in person, not distressed nor intoxicated, or to your heirs if you are dead, or your attorney if you are incapable. They do not need to be technical at all.
+They should know the circumstances under which they should hand them over, e.g., to you in person, not distressed nor intoxicated, or to your heirs if you are dead, or your trustee if you are incapable. They do not need to be technical at all.
 
 They should **not know** your **Static** passphrase nor who the other one is. Choose people from different spheres of your life, perhaps even living in different countries. They should not be your lawyer or the person who has your Power of Attorney.
 
@@ -164,15 +164,15 @@ Every time you use something for the first time, **label it clearly**.
 1. Pick your two passphrases
 2. Include your **Static** passphrase in a Letter of Wishes alongside your Will.
 3. Include your **Static** passphrase in a Letter of Instruction for your Power of Attorney.
-4. Mark the iOS device as **Home**, and the Android Tablet as Office. **Use** them only with their associated location's hardware wallet from now.
-5. Set-up Keystone wallet using **Personal** passphrase.
-6. Epoxy a keyring chain with the small toy and Airtag to the Keystone.
+4. Mark the iOS device as **Home**, and the Android Tablet as Office. Use them *only with their associated location's hardware* wallet from now on.
+5. Set up Keystone wallet using **Personal** passphrase.
+6. Epoxy a keychain with the small toy and AirTag to the Keystone.
 7. Use the Keystone Dice Mode and **Static** passphrase to set up one more wallet, called **Guardian** A. (Keystone allows for up to 3 independent wallets.)
-8. Use [Keystone Dice Mode](https://guide.keyst.one/docs/dice-roll) and the **Static** passphrase, to make a wallet called **Guardian** B and restore that as your third Keystone Wallet.
+8. Use [Keystone Dice Mode](https://guide.keyst.one/docs/dice-roll) and the **Static** passphrase to make a wallet called **Guardian** B and restore that as your third Keystone Wallet.
 9. Set up Trezor as your **Office** wallet.
 10. Set up Ledger as your **Home** wallet.
 11. Install [Rabby Wallet](https://rabby.io) on your Android Wallet
-12. Install on your iOS ...
+12. Install on your iOS:
 	1. [Metamask Mobile](https://metamask.io/en-GB/download)
 	2. [Safe Wallet Mobile](https://help.safe.global/en/articles/40805-connect-external-signer-key) app
 13. For each **Holding**…
@@ -183,11 +183,11 @@ Every time you use something for the first time, **label it clearly**.
 	5. Set it to a 3/5 multisig.
 	6. Do whatever extra testing you need to feel confident.
 14. **Wipe the Guardian wallets from your Keystone.**
-15. You can now bag each of your backup plates in a tamper proof bag. They'll have numbers on the seals, write them down somewhere.
+15. You can now bag each of your backup plates in a tamper-proof bag. They'll have numbers on the seals, write them down somewhere.
 16. Put the backup plate for your **Day to Day** in your **Home Safe.**
-17. Attach your **Home** wallet, eg. the Ledger, to a desk using the chain, preferably out of sight in a **Desk Safe** of some sort.
+17. Attach your **Home** wallet, e.g., the Ledger, to a desk using the chain, preferably out of sight in a **Desk Safe** of some sort.
 18. Take your **Office** wallet, and the Android Tablet to your **Office** location and do similarly there.
-19. Gather up the **Office** and Home **backup** plates and take them to your Safety **Deposit Box. Make** sure they have your contingency plans for death or incapacity on file.
+19. Gather up the **Office** and Home **backup** plates and take them to your Safety **Deposit Box**. Make sure they have your contingency plans for death or incapacity on file.
 20. Deliver each of the **Guardian** backup plates to their respective **Guardians**.
 21. Collect the spare materials including the cheap phone and put them somewhere safe.
 
@@ -200,12 +200,12 @@ If you lose a device, it's best to replace it if you don't know where it is. It'
 1. Order a new hardware wallet of the same type.
 2. Retrieve the appropriate back-up plate, and clearly label it as "Void".
 3. Install Metamask Mobile (or suitable crypto wallet app) on the **Spare Phone**.
-4. Use the phone as a replacement for the lost wallet
+4. Use the phone as a replacement for the lost wallet.
 5. When the new wallet arrives, set it up as a new wallet, using your spare steel plate for the backup.
 6. Replace your old wallet (now on your phone), with the new wallet (on your new hardware wallet) on each of your **Holdings** multisigs.
 7. Send spare assets from the old wallet on your phone into the multisig.
 8. Put the *new backup plate* in the location of the old one.
-9. Put the old backup plate in draw somewhere. It doesn't really matter any more.
+9. Put the old backup plate in a drawer somewhere. It doesn't really matter any more.
 10. Wipe the **Spare Phone** and store it away.
 
 ### Loss of all hardware wallets
@@ -237,7 +237,7 @@ Trezor and Keystone have Bitcoin-only firmware. You might also want to consider 
 
 There is also [Casa](https://casa.io), which I'd recommend for less technical Bitcoin users.
 
-### I have no heirs. My death will deflationary.
+### I have no heirs. My death will be deflationary.
 
 Ignore the bits about Wills and just bury your "Safety Deposit Box".
 
