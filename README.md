@@ -104,6 +104,9 @@ This is a location outside of your normal life that someone else can access with
 
 In most jurisdictions, the existence of this box will be disclosed to the authorities. However, the upside is that you can make *formal binding* arrangements for access in the event of your death or incapacity. Even if your lawyer conspires with your friends to access your safety deposit box with a false will and death certificate, it is unlikely they will sign themselves in and out of building with witnesses to do this.
 
+![Widow opening bank box](images/widow.jpg)
+
+
 You won't need to visit the **Stash** very often, so why not place it at a safe distance from your home? Worried about over-aggressive authorities. Why not in another country?
 
 You could dig a deep hole in the local forest that's described to your heirs. Do what works for you, but don't complain if a treasure hunter digs it up in a few years 😊
