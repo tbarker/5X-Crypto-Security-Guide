@@ -279,6 +279,9 @@ There is also [Casa](https://casa.io), which I'd recommend for less technical Bi
 
 Ignore the bits about Wills and just bury your "Safety Deposit Box".
 
+![Man blowing bitcoin seeds into the wind.](images/deflate.jpg)
+
+
 But have a think about the Power of Attorney. We all have accidents and get sick.
 
 If you really want to be the only person with access to your assets, you only need one passphrase for everything.
