@@ -8,7 +8,7 @@ It is written for tech-literate crypto holders who have mostly normal lives, a f
 
 We're only trying to cover your "treasury". The funds you don't trade, and access every other month or so.
 
-I am not rich enough to need this. This is how I wish my wealthy friends would get themselves organised. If people like it, I'll expand it and offer properly worked out variations. Maybe vibe code an interactive wizard :)
+I am not rich enough to need this. This is how I wish my wealthy friends would get themselves organised. If people like it, I'll expand it and offer properly worked out variations. Maybe vibe code an interactive wizard 😊
 
 ## Assumptions
 
@@ -37,9 +37,9 @@ To start this guide you should know:
 * Have a will. It's inevitable 😞
 * Put in place a Power of Attorney so that someone you trust can look after your affairs if you are incapable.
 
-## Day to Day
+## How you will access your funds
 
-When a 5X Security Implementer decides to access their funds. That day will look roughly like this.
+When a 5X Security Implementer decides to access their funds, their day might look roughly like this:
 
 Get up, shower, get dressed, have breakfast. Take out their phone and grab a hardware wallet, setup a transaction on a multisig wallet. Read the newspaper.
 
@@ -65,11 +65,11 @@ In doing this you should consider:
 
 ## Passphrases
 
-A passphrase is an optional, advanced security feature that allows you to create a new wallet by adding an additional word to a 12-24 seed phrase.
+A passphrase is an optional, advanced security feature that allows you to create a new wallet by adding an additional word to a 12–24 seed phrase.
 
 With passphrases you can have one single seed with multiple different wallets. Each wallet would be designated by a different passphrase.
 
-We use one passphrase for each wallet to deny the **Guardians** (more on that later) of the back-up plates the ability to use them independently.
+We use one passphrase to hide each wallet. This prevents **Guardians** or your **Safety Deposit Box** provider (explained later), who hold your backup plates from accessing your wallets independently.
 
 We will use two different passphrases:
 - **Personal**, this will be lost with you if you die or are lying in a coma.
@@ -79,7 +79,7 @@ Don't confuse passphrases with the PIN to unlock your hardware wallet. PINs just
 
 ## Big Things
 
-These are the “life prerequisites” of the 5X security model. Most of them are the "middle class staples".
+These are the "life prerequisites" of the 5X security model. All of them Good Things™ that you should be doing anyway.
 
 ### Locations
 
@@ -89,9 +89,9 @@ A rented box in a professionally secured vault. Available from many providers, y
 
 In most jurisdictions, the existence of this box will be disclosed to the authorities. However, the upside is that you can make arrangements for access to this box in the event of your death or incapacity.
 
-You won’t need to visit this very often, so why not place it a good distance from your home? If you are worried about over-aggressive authorities, why not rent a box in another country you like to visit?
+You won't need to visit this very often, so why not place it at a safe distance from your home? If you are worried about over-aggressive authorities, why not rent a box in another country you like to visit?
 
-Or a deep hole in the local forest that's described to your heirs. Do what works for you, but don't complain if a treasure hunter digs it up in a few years :)
+Or a deep hole in the local forest that's described to your heirs. Do what works for you, but don't complain if a treasure hunter digs it up in a few years 😊
 
 #### Home
 Just where you wake up every day. Try to keep its location off the internet. You'll be keeping a **Home Safe** there and a **Desk Safe**.
@@ -101,7 +101,7 @@ Just where you wake up every day. Try to keep its location off the internet. You
 Somewhere you can work which is available during normal hours and has some independent security. Mostly it should have CCTV and be 20 minutes plus from your **Home**. It will need a **Desk Safe**.
 
 #### Legal
-Someone who will hold your Will and your Letter of Wishes/Instruction, and then see to that they are passed to the correct people after your death or unfortunate accident.
+Someone who will hold Will and your Letter of Wishes/Instruction, ensuring they are passed to the correct people in the event of your death or an accident that incapacitates you.
 
 You don't need to engage a blue-ribbon law firm. The consumer charity Which? runs [an online service](https://whichwills.which.co.uk) in the UK. Have a look around for what's available to you.
 
@@ -124,7 +124,8 @@ Or, you could seal everything in a mason jar to bury on your land 😊
 ![Mason Jar](images/mason.jpg)
 
 #### Desk Safes
-A safe place that is easy to access while working at a desk. A lock box or a desk drawer safe. Something that can't be taken or tampered with without raising an alert. An laptop or office locker would do.
+
+Easily accessible secure storage near a workspace, such as a lock box or desk drawer safe. It should be tamper-evident and fixed in place. A laptop safe or office locker would work well.
 
 Ideally a place you can fix a hardware wallet to with a chain. If you can't chain an item in place, you can always AirTag the items and put them in a drawer. Gun safes could be great if they are available where you are.
 
@@ -153,10 +154,10 @@ These letters are private documents held by a legal professional that are given 
 
 ![Accident](images/accident.jpg)
 
-Include the following in your Letter of Wishes :-
+Include the following in your Letter of Wishes:
 * **Static** passphrase
 * Identity of your two **Guardians**
-* The location and process for opening your **Safety Deposit Box**. Remember they are not you, and the **Safety Deposit Box** service will not know what to do with them unless you tell them.
+* The location and process for opening your **Safety Deposit Box**. Remember your heirs or attorney are not you — the **Safety Deposit Box** service will not know what to do with them unless you tell them.
 
 ![Will](images/rest.jpg)
 
@@ -169,13 +170,13 @@ These sit in your **Legal** location.
 - [Trezor Safe 5](https://trezor.io/trezor-safe-5-black-graphite)
 - [Ledger Shift](https://shop.ledger.com/products/ledger-flex/graphite)
 - [Keystone Pro](https://shop.keyst.one/products/keystone-3-pro)
-- 6 x **Steel Plates** (pick [something from here](https://jlopp.github.io/metal-bitcoin-storage-reviews/?ref=blog.lopp.net), but they're all Steel Plates 🙂)
+- 6 × **Steel Plates** (pick [something from here](https://jlopp.github.io/metal-bitcoin-storage-reviews/?ref=blog.lopp.net), but they're all Steel Plates 🙂)
 
 ### Signing Computers
 
-- 1 x Android Tablet
-- 1 x Small iOS device
-- 1 x **Spare Phone** (Cheap emergency backup device for wallet recovery and transactions.)
+- 1 × Android Tablet
+- 1 × Small iOS device
+- 1 × **Spare Phone** (Cheap emergency backup device for wallet recovery and transactions.)
 
 We will use your phone as the signing device for the **Day to Day** wallet to avoid an additional device.
 
@@ -183,14 +184,14 @@ We will use your phone as the signing device for the **Day to Day** wallet to av
 ### Other Stuff
 | Name | Purpose | Cost |
 |------|---------|------|
-| AirTag | Track the location of **Day to Day** hardware wallets in case of loss. | $29-35 |
-| Keyring hoops | Attach hardware wallets to chains and other security measures. | $5-10 |
-| Long chains | Physically secure hardware wallets to desks or safes to prevent  theft or accidental/lazy removal. | $15-30 |
-| Keyring toy | Disguise your AirTag as a harmless decorative item whilst keeping it attached to valuable items. | $5-15 |
-| Super Glue / Epoxy | Permanently attach chains, toys and AirTags to hardware wallets and cases. | $10-20 |
-| Single six-sided casino dice | Generate truly random numbers for wallet creation. Casino dice ensure better randomness. | $5-15 |
-| Tamper evident bags | See if anyone might have looked at a **Steel Plate**. | $20-40 for pack |
-| Sticky Labels | Clearly mark all items to avoid confusions. | $5-10 |
+| AirTag | Track the location of **Day to Day** hardware wallets in case of loss. | $29–35 |
+| Keyring hoops | Attach hardware wallets to chains and other security measures. | $5–10 |
+| Long chains | Physically secure hardware wallets to desks or safes to prevent theft or accidental/lazy removal. | $15–30 |
+| Keyring toy | Disguise your AirTag as a harmless decorative item whilst keeping it attached to valuable items. | $5–15 |
+| Super Glue / Epoxy | Permanently attach chains, toys and AirTags to hardware wallets and cases. | $10–20 |
+| Single six-sided casino dice | Generate truly random numbers for wallet creation. Casino dice ensure better randomness. | $5–15 |
+| Tamper evident bags | See if anyone might have looked at a **Steel Plate**. | $20–40 for pack |
+| Sticky Labels | Clearly mark all items to avoid confusions. | $5–10 |
 
 ## Setup Guide
 
@@ -210,8 +211,8 @@ Every time you use something for the first time, **label it clearly**.
 12. Install on your iOS:
 	1. [Metamask Mobile](https://metamask.io/en-GB/download)
 	2. [Safe Wallet Mobile](https://help.safe.global/en/articles/40805-connect-external-signer-key) app
-13. For each **Holding** …
-	1. Takes the next available Ethereum address from each wallet.
+13. For each **Holding**…
+	1. Take the next available Ethereum address from each wallet.
 	2. Fund them with suitable coins, usually ETH.
 	3. Use one of them to create a 5/5 [Safe Vault multisig](https://safe.global/).
 	4. Record the address of the multisig, and add it to all the address books in your other devices.
@@ -252,10 +253,10 @@ Try to be a bit careful about bringing all your signing wallets together in the 
 1. Buy new hardware wallets.
 2. If you are able, retrieve your backup steel plate from your **Home Safe**. If not, contact one of your **Guardians**.
 3. Retrieve the steel plates from your **Safety Deposit Box**.
-4. If you took the steel plate from your **Home Safe**. You can simply restore everything back to normal.
+4. If you took the steel plate from your **Home Safe**, you can simply restore everything back to normal.
 5. If you used a **Guardian**'s backup steel plate, you should restore *that* wallet to the spare phone, and then treat your **Day to Day** as a **Single Wallet Loss**.
-6. If the lost hardware wallets are "secure", ex. the person with the PIN is not there, then you can stop here.
-7. If the lost hardware wallets are an unknown places, they'll each need to be treated as a **Single Wallet Loss**. Sorry :(
+6. If the lost hardware wallets are "secure", e.g., the person with the PIN is not there, then you can stop here.
+7. If the fate of the hardware wallets is unknown, e.g., someone could eventually break into them, they should each be treated as a **Single Wallet Loss**. Sorry 😢
 8. Put all the *current* backup steel plates and hardware wallets back where they should be.
 
 ### Loss of Safety Deposit Box
@@ -292,4 +293,4 @@ If you really want to be the only person with access to your assets, you only ne
 
 ### HODL Forever
 
-You can simply wipe all the hardware wallets after set-up. Although in this case it might be better to use a [Shamir Secret Sharing scheme](https://cryptotag.io/blog/shamirs-secret-sharing-backup/) since you are only planning to access the assets once.
+You can simply wipe all the hardware wallets after set-up. Although in this case it might be better to use a [Shamir Secret Sharing scheme](https://cryptotag.io/blog/shamirs-secret-sharing-backup/), which creates multiple key fragments that can later be recombined, as you are only planning to access the assets once.
