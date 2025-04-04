@@ -55,7 +55,7 @@ Sound acceptable? Read on!
 
 Take a passphrase-protected spreadsheet or similar, and then record all your crypto assets.
 
-These should be divided into Holdings. Each Holding will be funds you are happy to have publicly linked and want to manage together. Most people will only have one **Holding**.
+These should be divided into Holdings. Each **Holding** will be funds you are happy to have publicly linked and want to manage together. Most people will only have one **Holding**.
 
 In doing this you should consider:
 - KYC status. Who knows it's yours?
