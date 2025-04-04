@@ -2,6 +2,8 @@
 
 Inspired by the [10x Bitcoin Security Guide](https://btcguide.github.io), this is the advice I find myself giving over and over in a semi-prescriptive guide. You don't need to follow it exactly, and very few people will.
 
+![Peace](images/peace.jpg)
+
 It is written for tech-literate crypto holders who have mostly normal lives, a family, relatives, etc. Someone who got involved in a TGE, or got lucky on Kraken a few times, and isn't ready to cash out yet.
 
 We're only trying to cover your "treasury". The funds you don't trade, and access every other month or so.
@@ -32,7 +34,7 @@ To start this guide you should know:
 
 * Pay taxes suitable to your home, standard of living, etc. In most countries, they **will** eventually get around to you.
 * Secure your phone and laptop. Do the Apple and Facebook privacy checks. All that good stuff you've been putting off.
-* Have a will. It's inevitable :(
+* Have a will. It's inevitable 😞
 * Put in place a Power of Attorney so that someone you trust can look after your affairs if you are incapable.
 
 ## Day to Day
@@ -108,12 +110,32 @@ You don't need to engage a blue-ribbon law firm. The consumer charity Which? run
 #### Home Safe
 A safe place in (or very near) your home. Ideally a properly installed safe if you have time and money to install one. A hidden floor safe encased in concrete is a great investment if you have a lot of valuables to protect. But there's a huge variety of affordable options, including wall safes, lock boxes, even fake wall sockets, plants, and books.
 
-Or, you could seal everything in a mason jar to bury on your land :)
+Here are some recommended home safe options available on Amazon:
+
+| Image | Name | Features | Price |
+|-------|------|----------|-------|
+| ![Stealth B5000 In-Ground Floor Safe](images/stealth-b5000-floor-safe.jpg) | [Stealth B5000 In-Ground Floor Safe](https://www.amazon.com/Stealth-Floor-Ground-Security-Mechanical/dp/B094T9RNP8) | Fully encased in concrete on five sides for maximum protection; hidden from plain view; mechanical lock for reliability. | $799.99 |
+| ![GHJGAGE 43.5" Tall Fireproof Wall Safe](images/ghjgage-wall-safe.jpg) | [GHJGAGE 43.5" Tall Fireproof Wall Safe](https://www.amazon.com/GHJGAGE-Fireproof-Wall-Safe-Removable/dp/B0BXW3HWXJ) | Fits between standard 16" studs; fireproof construction; digital keypad with removable shelf. | $259.99 |
+| ![Elder Welder Hidden Wall Safe with Air Vent Cover](images/elder-welder-wall-safe.jpg) | [Elder Welder Hidden Wall Safe with Air Vent Cover](https://www.amazon.com/Elder-Hidden-Wall-Safe-Cover/dp/B0CGVRWHY6) | Disguised as an air vent; easy to install; combination lock; fits between 16" studs. | $149.99 |
+| ![Marcree 3.0 Cubic Feet Home Safe](images/marcree-home-safe.jpg) | [Marcree 3.0 Cubic Feet Home Safe](https://www.amazon.com/Marcree-Compartment-Removable-Adjustable-Accessories/dp/B0CC8G4GN7) | Spacious 3.0 cubic feet capacity; fireproof and waterproof; removable shelves and interior compartments for organized storage. | $399.99 |
+
+Or, you could seal everything in a mason jar to bury on your land 😊
+
+![Mason Jar](images/mason.jpg)
 
 #### Desk Safes
 A safe place that is easy to access while working at a desk. A lock box or a desk drawer safe. Something that can't be taken or tampered with without raising an alert. An laptop or office locker would do.
 
-Ideally a place you can fix a hardware wallet to with a chain. If you can't chain an item in place, you can always AirTag the items and put them in a drawer.
+Ideally a place you can fix a hardware wallet to with a chain. If you can't chain an item in place, you can always AirTag the items and put them in a drawer. Gun safes could be great if they are available where you are.
+
+Here are some recommended desk safe options available on Amazon:
+
+| Image | Name | Features | Price |
+|-------|------|----------|-------|
+| ![Heavy Duty Steel Under Desk Handgun Safe](images/under-desk-handgun-safe.jpg) | [Heavy Duty Steel Under Desk Handgun Safe](https://www.amazon.com/Heavy-Duty-Steel-Under-Desk/dp/B09ZDVWRBN) | Slide-away design with electronic keypad; can be mounted under a desk. | $139.99 |
+| ![Amazon Basics Steel Security Safe and Lock Box](images/amazonbasics-security-safe.jpg) | [Amazon Basics Steel Security Safe and Lock Box](https://www.amazon.com/Amazon-Basics-Security-Electronic-Keypad/dp/B00UG9HB1Q) | Electronic keypad with backup key; 0.5 cubic feet capacity; suitable for securing cash, jewelry, and ID documents. | $49.99 |
+| ![Master Lock 5900D Portable Personal Safe](images/masterlock-portable-safe.jpg) | [Master Lock 5900D Portable Personal Safe](https://www.amazon.com/Master-Lock-Portable-Personal-5900D/dp/B005K6JQXQ) | Portable safe with combination lock; includes cable to secure to fixed objects; ideal for securing small valuables. | $27.99 |
+| ![Amazon Basics Small Slim Desk Drawer Security Safe](images/91RCwYk13UL._AC_SL1500_.jpg) | [Amazon Basics Small Slim Desk Drawer Security Safe](https://www.amazon.com/Amazon-Basics-Security-Programmable-Electronic/dp/B078WPCQWK) | Slim design fits conveniently inside a drawer; programmable electronic keypad; emergency backup key included. | $48.24 |
 
 ## People
 
@@ -129,33 +151,46 @@ They should **not know** your **Static** passphrase nor who the other one is. Ch
 
 These letters are private documents held by a legal professional that are given to whoever executes your will, or takes charge of your affairs if you are incapacitated. (Note that Wills and Power of Attorney are usually public documents, and so a poor place to pass along secrets.)
 
+![Accident](images/accident.jpg)
+
 Include the following in your Letter of Wishes :-
 * **Static** passphrase
 * Identity of your two **Guardians**
 * The location and process for opening your **Safety Deposit Box**. Remember they are not you, and the **Safety Deposit Box** service will not know what to do with them unless you tell them.
 
+![Will](images/rest.jpg)
+
 These sit in your **Legal** location.
 
 ## Shopping List
 
-### Wallets
+### Hardware Wallets
+
 - [Trezor Safe 5](https://trezor.io/trezor-safe-5-black-graphite)
 - [Ledger Shift](https://shop.ledger.com/products/ledger-flex/graphite)
 - [Keystone Pro](https://shop.keyst.one/products/keystone-3-pro)
 - 6 x **Steel Plates** (pick [something from here](https://jlopp.github.io/metal-bitcoin-storage-reviews/?ref=blog.lopp.net), but they're all Steel Plates 🙂)
+
+### Signing Computers
+
 - 1 x Android Tablet
 - 1 x Small iOS device
+- 1 x **Spare Phone** (Cheap emergency backup device for wallet recovery and transactions.)
 
-### Stuff
-- AirTag
-- Keyring hoops
-- Long chains
-- Keyring toy
-- Super Glue / Epoxy
-- Single six-sided casino dice
-- Cheap spare Android phone
-- [Tamper evident bags](https://en.wikipedia.org/wiki/Security_bag)
-- Sticky Labels
+We will use your phone as the signing device for the **Day to Day** wallet to avoid an additional device.
+
+
+### Other Stuff
+| Name | Purpose | Cost |
+|------|---------|------|
+| AirTag | Track the location of **Day to Day** hardware wallets in case of loss. | $29-35 |
+| Keyring hoops | Attach hardware wallets to chains and other security measures. | $5-10 |
+| Long chains | Physically secure hardware wallets to desks or safes to prevent  theft or accidental/lazy removal. | $15-30 |
+| Keyring toy | Disguise your AirTag as a harmless decorative item whilst keeping it attached to valuable items. | $5-15 |
+| Super Glue / Epoxy | Permanently attach chains, toys and AirTags to hardware wallets and cases. | $10-20 |
+| Single six-sided casino dice | Generate truly random numbers for wallet creation. Casino dice ensure better randomness. | $5-15 |
+| Tamper evident bags | See if anyone might have looked at a **Steel Plate**. | $20-40 for pack |
+| Sticky Labels | Clearly mark all items to avoid confusions. | $5-10 |
 
 ## Setup Guide
 
@@ -175,7 +210,7 @@ Every time you use something for the first time, **label it clearly**.
 12. Install on your iOS:
 	1. [Metamask Mobile](https://metamask.io/en-GB/download)
 	2. [Safe Wallet Mobile](https://help.safe.global/en/articles/40805-connect-external-signer-key) app
-13. For each **Holding**…
+13. For each **Holding** …
 	1. Takes the next available Ethereum address from each wallet.
 	2. Fund them with suitable coins, usually ETH.
 	3. Use one of them to create a 5/5 [Safe Vault multisig](https://safe.global/).
@@ -183,13 +218,13 @@ Every time you use something for the first time, **label it clearly**.
 	5. Set it to a 3/5 multisig.
 	6. Do whatever extra testing you need to feel confident.
 14. **Wipe the Guardian wallets from your Keystone.**
-15. You can now bag each of your backup plates in a tamper-proof bag. They'll have numbers on the seals, write them down somewhere.
+15. You can now bag each of your backup plates in a tamper-proof bag. They'll have serial numbers on the seals, write them down somewhere.
 16. Put the backup plate for your **Day to Day** in your **Home Safe.**
 17. Attach your **Home** wallet, e.g., the Ledger, to a desk using the chain, preferably out of sight in a **Desk Safe** of some sort.
 18. Take your **Office** wallet, and the Android Tablet to your **Office** location and do similarly there.
 19. Gather up the **Office** and Home **backup** plates and take them to your Safety **Deposit Box**. Make sure they have your contingency plans for death or incapacity on file.
 20. Deliver each of the **Guardian** backup plates to their respective **Guardians**.
-21. Collect the spare materials including the cheap phone and put them somewhere safe.
+21. Collect the spare materials including the spare phone and put them somewhere safe.
 
 ## Failure and Recovery
 
@@ -235,6 +270,8 @@ Try to be a bit careful about bringing all your signing wallets together in the 
 
 Trezor and Keystone have Bitcoin-only firmware. You might also want to consider the Bitcoin-only [ColdCard wallet](https://coldcard.com). You might find [creating a multisig more challenging](https://medium.com/@1700constantino/protect-your-bitcoin-with-an-electrum-multi-sig-wallet-with-coldcard-ledger-and-trezor-96397e4ce287), but [Electrum wallet](https://electrum.org) software and a few others have offered this for a while. You should definitely read [10x Bitcoin Security Guide](https://btcguide.github.io).
 
+![Laser eyes](images/laser.jpg)
+
 There is also [Casa](https://casa.io), which I'd recommend for less technical Bitcoin users.
 
 ### I have no heirs. My death will be deflationary.
@@ -243,11 +280,15 @@ Ignore the bits about Wills and just bury your "Safety Deposit Box".
 
 But have a think about the Power of Attorney. We all have accidents and get sick.
 
+If you really want to be the only person with access to your assets, you only need one passphrase for everything.
+
 ### Small organisation
 
-Day to Day becomes CEO.
-Home becomes CFO.
-Office becomes COO.
+* **Day to Day** becomes CEO.
+* **Home** becomes CFO.
+* **Office** becomes COO.
+
+![Team](images/team.jpg)
 
 ### HODL Forever
 

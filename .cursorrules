@@ -1,0 +1,45 @@
+# Cursor Rules for British English with US Dollar Currency
+
+## Language Guidelines
+- Use British English spelling conventions
+- Use US dollar ($) as the default currency
+- Maintain consistent formatting throughout documents
+
+## Spelling Rules
+- Use '-ise' instead of '-ize' (e.g., 'organise', 'customise')
+- Use '-our' instead of '-or' (e.g., 'colour', 'behaviour')
+- Use '-ell' instead of '-el' (e.g., 'travelling', 'cancelled')
+- Use '-re' instead of '-er' (e.g., 'centre', 'metre')
+- Use '-ogue' instead of '-og' (e.g., 'dialogue', 'catalogue')
+- Use '-yse' instead of '-yze' (e.g., 'analyse', 'paralyse')
+- Use 'any more' instead of 'anymore'
+- Use 'whilst' instead of 'while' (when appropriate)
+- Use 'amongst' instead of 'among' (when appropriate)
+
+## Currency Formatting
+- Always use $ for US dollars
+- Format: $1,234.56 (with comma as thousand separator)
+- For large amounts: $1.2M, $1.2B
+- No space between $ and the amount
+- Use 'USD' only when explicitly needed for clarity
+
+## Date Formatting
+- Use DD/MM/YYYY format
+- Use 24-hour time format (e.g., 14:30)
+
+## Punctuation
+- Use single quotes for quotations
+- Place punctuation outside quotation marks
+- Use 'e.g.,' and 'i.e.,' with periods
+- Use Oxford comma in lists
+
+## Technical Terms
+- Keep technical terms in their original form (e.g., 'customize' in code)
+- Keep brand names in their original form (e.g., 'Customize' in UI text)
+- Keep file extensions and commands in their original form
+
+## Exceptions
+- Keep cryptocurrency terms in their original form
+- Keep technical documentation in its original form
+- Keep code comments in their original form
+- Keep variable names and function names in their original form 
