@@ -69,7 +69,7 @@ A passphrase is an optional, advanced security feature that allows you to create
 
 With passphrases you can have one single seed with multiple different wallets. Each wallet would be designated by a different passphrase.
 
-We use one passphrase to hide each wallet. This prevents **Guardians** or your **Safety Deposit Box** provider (explained later), who hold your backup plates from accessing your wallets independently.
+We use one passphrase to hide each wallet. This prevents **Guardians** or people protecting your **Stash** (explained later), who hold your backup plates from accessing your wallets independently.
 
 We will use two different passphrases:
 - **Personal**, this will be lost with you if you die or are lying in a coma.
@@ -77,37 +77,75 @@ We will use two different passphrases:
 
 Don't confuse passphrases with the PIN to unlock your hardware wallet. PINs just control their own individual bit of hardware. 
 
-## Big Things
+## Overview
 
-These are the "life prerequisites" of the 5X security model. All of them Good Things™ that you should be doing anyway.
+In the 5X model, we separate your keys into 5 locations, locked with 2 passphrases.
+
+![Diagram showing 5 locations](images/overview.png)
+
+We will keep your assets in multi-signature Safe Vaults, and each of these Vaults will require 3 of your 5 wallets to move any assets.
+
+It is possible for someone else to get access to 3 out of 5 wallets, if they can gain access to your **Stash**, a **Guardian**, and they know your **Static** passphrase. This is what will happen if you pass away or get too sick to manage yourself.
 
 ### Locations
 
-#### Safety Deposit Box
+These are places to put your wallets. Some of them are physical locations, some are people, and some are services. Think of them as facilities rather specific buildings/roles.
 
-A rented box in a professionally secured vault. Available from many providers, your bank probably does this.
+#### Personal 💼
 
-In most jurisdictions, the existence of this box will be disclosed to the authorities. However, the upside is that you can make arrangements for access to this box in the event of your death or incapacity.
+The things you carry around with you day to day. Your purse, or briefcase.
 
-You won't need to visit this very often, so why not place it at a safe distance from your home? If you are worried about over-aggressive authorities, why not rent a box in another country you like to visit?
+![Purse with a Ledger](images/purse.jpg)
 
-Or a deep hole in the local forest that's described to your heirs. Do what works for you, but don't complain if a treasure hunter digs it up in a few years 😊
 
-#### Home
+#### Stash 🏦
+
+This is a location outside of your normal life that someone else can access with your consent. A rented box in a professionally secured vault would be ideal. These are available from many providers, your bank probably does this.
+
+In most jurisdictions, the existence of this box will be disclosed to the authorities. However, the upside is that you can make *formal binding* arrangements for access in the event of your death or incapacity. Even if your lawyer conspires with your friends to access your safety deposit box with a false will and death certificate, it is unlikely they will sign themselves in and out of building with witnesses to do this.
+
+You won't need to visit the **Stash** very often, so why not place it at a safe distance from your home? Worried about over-aggressive authorities. Why not in another country?
+
+You could dig a deep hole in the local forest that's described to your heirs. Do what works for you, but don't complain if a treasure hunter digs it up in a few years 😊
+
+#### Home 🏡
 Just where you wake up every day. Try to keep its location off the internet. You'll be keeping a **Home Safe** there and a **Desk Safe**.
 
-#### Office
+#### Office 📤
 
-Somewhere you can work which is available during normal hours and has some independent security. Mostly it should have CCTV and be 20 minutes plus from your **Home**. It will need a **Desk Safe**.
+Somewhere you can work which is available during normal hours and has some independent security. Mostly it should have CCTV and be 20 minutes plus from your **Home**. It will need a **Desk Safe**. A coworking space, or your small business if you have one, or even, a gym club.
 
-#### Legal
-Someone who will hold Will and your Letter of Wishes/Instruction, ensuring they are passed to the correct people in the event of your death or an accident that incapacitates you.
+#### Guardian A/B 🫂
+
+Have two trustworthy independent friends. They will each hold one of your steel backup plates.
+
+They should know the circumstances under which they should hand them over, e.g., to you in person, not distressed nor intoxicated, or to your heirs if you are dead, or your trustee if you are incapable. They do not need to be technical at all.
+
+They should **not know** your **Static** passphrase nor who the other one is. Choose people from different spheres of your life, perhaps even living in different countries. They should not be your lawyer or a person who might hold your Power of Attorney.
+
+
+#### Legal 👩‍⚖️
+
+Someone who will hold Will and your Letter of Wishes/Instruction, ensuring they are passed to the correct people in the event of your death or an accident that incapacitates you. (Note that Wills and Power of Attorney are usually public documents, and so a poor place to pass along secrets.)
 
 You don't need to engage a blue-ribbon law firm. The consumer charity Which? runs [an online service](https://whichwills.which.co.uk) in the UK. Have a look around for what's available to you.
 
+![Accident](images/accident.jpg)
+
+Include the following in your Letter of Wishes:
+* **Static** passphrase
+* Identity of your two **Guardians**
+* The location and process for opening your **Stash**. Remember your heirs or attorney are not you — and any people at the **Stash**, e.g. the safety deposit company, will not know what to do with them unless you tell them.
+
+![Will](images/rest.jpg)
+
+
 ### Safes
 
+The main aim is to stop anything going missing without that being noticed, so there's no need to go overboard. With that said, you likely have watches, jewellery, etc, to protect too.
+
 #### Home Safe
+
 A safe place in (or very near) your home. Ideally a properly installed safe if you have time and money to install one. A hidden floor safe encased in concrete is a great investment if you have a lot of valuables to protect. But there's a huge variety of affordable options, including wall safes, lock boxes, even fake wall sockets, plants, and books.
 
 Here are some recommended home safe options available on Amazon:
@@ -118,6 +156,7 @@ Here are some recommended home safe options available on Amazon:
 | ![GHJGAGE 43.5" Tall Fireproof Wall Safe](images/ghjgage-wall-safe.jpg) | [GHJGAGE 43.5" Tall Fireproof Wall Safe](https://www.amazon.com/GHJGAGE-Fireproof-Wall-Safe-Removable/dp/B0BXW3HWXJ) | Fits between standard 16" studs; fireproof construction; digital keypad with removable shelf. | $259.99 |
 | ![Elder Welder Hidden Wall Safe with Air Vent Cover](images/elder-welder-wall-safe.jpg) | [Elder Welder Hidden Wall Safe with Air Vent Cover](https://www.amazon.com/Elder-Hidden-Wall-Safe-Cover/dp/B0CGVRWHY6) | Disguised as an air vent; easy to install; combination lock; fits between 16" studs. | $149.99 |
 | ![Marcree 3.0 Cubic Feet Home Safe](images/marcree-home-safe.jpg) | [Marcree 3.0 Cubic Feet Home Safe](https://www.amazon.com/Marcree-Compartment-Removable-Adjustable-Accessories/dp/B0CC8G4GN7) | Spacious 3.0 cubic feet capacity; fireproof and waterproof; removable shelves and interior compartments for organized storage. | $399.99 |
+| ![TAHOE TRAILS Book Safe with Key Lock](images/41K0x9IzJkL._AC_US100_.jpg) | [TAHOE TRAILS Book Safe with Key Lock](https://www.amazon.com/TAHOE-TRAILS-Tahoe-trails-safe/dp/B09BCGS4MF) | Disguised as a book; compact steel safe; key lock; ideal for storing money, passports, jewelry, and more. | $13.99 |
 
 Or, you could seal everything in a mason jar to bury on your land 😊
 
@@ -138,30 +177,6 @@ Here are some recommended desk safe options available on Amazon:
 | ![Master Lock 5900D Portable Personal Safe](images/masterlock-portable-safe.jpg) | [Master Lock 5900D Portable Personal Safe](https://www.amazon.com/Master-Lock-Portable-Personal-5900D/dp/B005K6JQXQ) | Portable safe with combination lock; includes cable to secure to fixed objects; ideal for securing small valuables. | $27.99 |
 | ![Amazon Basics Small Slim Desk Drawer Security Safe](images/91RCwYk13UL._AC_SL1500_.jpg) | [Amazon Basics Small Slim Desk Drawer Security Safe](https://www.amazon.com/Amazon-Basics-Security-Programmable-Electronic/dp/B078WPCQWK) | Slim design fits conveniently inside a drawer; programmable electronic keypad; emergency backup key included. | $48.24 |
 
-## People
-
-### Guardians
-
-Have two trustworthy independent friends. They will each hold one of your steel backup plates.
-
-They should know the circumstances under which they should hand them over, e.g., to you in person, not distressed nor intoxicated, or to your heirs if you are dead, or your trustee if you are incapable. They do not need to be technical at all.
-
-They should **not know** your **Static** passphrase nor who the other one is. Choose people from different spheres of your life, perhaps even living in different countries. They should not be your lawyer or the person who has your Power of Attorney.
-
-### Letter of Wishes/Instruction
-
-These letters are private documents held by a legal professional that are given to whoever executes your will, or takes charge of your affairs if you are incapacitated. (Note that Wills and Power of Attorney are usually public documents, and so a poor place to pass along secrets.)
-
-![Accident](images/accident.jpg)
-
-Include the following in your Letter of Wishes:
-* **Static** passphrase
-* Identity of your two **Guardians**
-* The location and process for opening your **Safety Deposit Box**. Remember your heirs or attorney are not you — the **Safety Deposit Box** service will not know what to do with them unless you tell them.
-
-![Will](images/rest.jpg)
-
-These sit in your **Legal** location.
 
 ## Shopping List
 
@@ -178,13 +193,13 @@ These sit in your **Legal** location.
 - 1 × Small iOS device
 - 1 × **Spare Phone** (Cheap emergency backup device for wallet recovery and transactions.)
 
-We will use your phone as the signing device for the **Day to Day** wallet to avoid an additional device.
+We will use your phone as the signing device for the **Personal** wallet to avoid an additional device.
 
 
 ### Other Stuff
 | Name | Purpose | Cost |
 |------|---------|------|
-| AirTag | Track the location of **Day to Day** hardware wallets in case of loss. | $29–35 |
+| AirTag | Track the location of **Personal** hardware wallets in case of loss. | $29–35 |
 | Keyring hoops | Attach hardware wallets to chains and other security measures. | $5–10 |
 | Long chains | Physically secure hardware wallets to desks or safes to prevent theft or accidental/lazy removal. | $15–30 |
 | Keyring toy | Disguise your AirTag as a harmless decorative item whilst keeping it attached to valuable items. | $5–15 |
@@ -211,7 +226,7 @@ Every time you use something for the first time, **label it clearly**.
 12. Install on your iOS:
 	1. [Metamask Mobile](https://metamask.io/en-GB/download)
 	2. [Safe Wallet Mobile](https://help.safe.global/en/articles/40805-connect-external-signer-key) app
-13. For each **Holding**…
+13. For each **Holding**:
 	1. Take the next available Ethereum address from each wallet.
 	2. Fund them with suitable coins, usually ETH.
 	3. Use one of them to create a 5/5 [Safe Vault multisig](https://safe.global/).
@@ -220,7 +235,7 @@ Every time you use something for the first time, **label it clearly**.
 	6. Do whatever extra testing you need to feel confident.
 14. **Wipe the Guardian wallets from your Keystone.**
 15. You can now bag each of your backup plates in a tamper-proof bag. They'll have serial numbers on the seals, write them down somewhere.
-16. Put the backup plate for your **Day to Day** in your **Home Safe.**
+16. Put the backup plate for your **Personal** in your **Home Safe.**
 17. Attach your **Home** wallet, e.g., the Ledger, to a desk using the chain, preferably out of sight in a **Desk Safe** of some sort.
 18. Take your **Office** wallet, and the Android Tablet to your **Office** location and do similarly there.
 19. Gather up the **Office** and Home **backup** plates and take them to your Safety **Deposit Box**. Make sure they have your contingency plans for death or incapacity on file.
@@ -246,22 +261,22 @@ If you lose a device, it's best to replace it if you don't know where it is. It'
 
 ### Loss of all hardware wallets
 
-This is if your **Home** and **Office** locations, plus your **Day to Day** hardware wallet are unavailable. This is also the scenario that your agent (either your heirs or your attorney) will face.
+This is if your **Home** and **Office** locations, plus your **Personal** hardware wallet are unavailable. This is also the scenario that your agent (either your heirs or your attorney) will face.
 
 Try to be a bit careful about bringing all your signing wallets together in the same place.
 
 1. Buy new hardware wallets.
 2. If you are able, retrieve your backup steel plate from your **Home Safe**. If not, contact one of your **Guardians**.
-3. Retrieve the steel plates from your **Safety Deposit Box**.
+3. Retrieve the steel plates from your **Stash**.
 4. If you took the steel plate from your **Home Safe**, you can simply restore everything back to normal.
-5. If you used a **Guardian**'s backup steel plate, you should restore *that* wallet to the spare phone, and then treat your **Day to Day** as a **Single Wallet Loss**.
-6. If the lost hardware wallets are "secure", e.g., the person with the PIN is not there, then you can stop here.
+5. If you used a **Guardian**'s backup steel plate, you should restore *that* wallet to the spare phone, and then treat your **Personal** as a **Single Wallet Loss**.
+6. If the lost hardware wallets are "secure", e.g., we just don't have the PIN, then you can stop here.
 7. If the fate of the hardware wallets is unknown, e.g., someone could eventually break into them, they should each be treated as a **Single Wallet Loss**. Sorry 😢
 8. Put all the *current* backup steel plates and hardware wallets back where they should be.
 
-### Loss of Safety Deposit Box
+### Loss of Stack location
 
-1. Get a new **Safety Deposit Box** (or at least a new mason jar in your garden for the time being)
+1. Get a new **Stash** (or at least a new mason jar in your garden for the time being)
 2. Treat **Home** as a **Single Wallet Loss**
 3. Treat **Office** as a **Single Wallet Loss**
 
@@ -288,7 +303,7 @@ If you really want to be the only person with access to your assets, you only ne
 
 ### Small organisation
 
-* **Day to Day** becomes CEO.
+* **Personal** becomes CEO.
 * **Home** becomes CFO.
 * **Office** becomes COO.
 
