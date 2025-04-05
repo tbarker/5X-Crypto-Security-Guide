@@ -6,6 +6,8 @@ Inspired by the [10x Bitcoin Security Guide](https://btcguide.github.io), this i
 
 It is written for tech-literate crypto holders who have mostly normal lives, a family, relatives, etc. Someone who got involved in a TGE, or got lucky on Kraken a few times, and isn't ready to cash out yet. The crypto mass affluent 🙂
 
+This is a dreadfully Ethereum guide, but it should be easy to adapt to Bitcoin or Solana. As long as the wallet format is similar to Ethereum seedphrases. 
+
 We're only trying to cover your "treasury". The funds you don't trade, and access every other month or so.
 
 I am not rich enough to need this. This is how I wish my wealthy friends would get themselves organised. If people like it, I'll expand it and offer properly worked out variations. Maybe vibe code an interactive wizard 😊
@@ -33,7 +35,7 @@ To start this guide you should understand:
 ## First Things First
 
 * Pay taxes suitable to your home, standard of living, etc. In most countries, they **will** eventually get around to you.
-* Secure your phone and laptop. Do the Apple and Facebook privacy checks. All that good stuff you've been putting off.
+* Secure your phone and laptop. Do the Apple and Facebook privacy checks. Make sure no one ego snatches your phone can get anything. All that good stuff you've been putting off.
 * Have a will. It's inevitable 😞
 * Put in place a Power of Attorney so that someone you trust can look after your affairs if you are incapable.
 
@@ -200,7 +202,7 @@ You can use any three you want, if they work with your signing tablets. They oug
 - [Trezor Safe 5](https://trezor.io/trezor-safe-5-black-graphite)
 - [Ledger Shift](https://shop.ledger.com/products/ledger-flex/graphite)
 - [Keystone Pro](https://shop.keyst.one/products/keystone-3-pro)
-- 6 × **Steel Plates** (pick [something from here](https://jlopp.github.io/metal-bitcoin-storage-reviews/?ref=blog.lopp.net), but they're all Steel Plates 🙂)
+- 6 × **Steel Plates** for Seedphrase Backup (pick [something from here](https://jlopp.github.io/metal-bitcoin-storage-reviews/?ref=blog.lopp.net), but they're all basixally Steel Plates 🙂)
 
 ### Signing Computers
 
