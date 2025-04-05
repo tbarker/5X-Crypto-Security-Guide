@@ -110,7 +110,7 @@ You won't need to visit the **Stash** very often, so why not place it at a safe 
 
 You could dig a deep hole in the local forest that's described to your heirs. Do what works for you, but don't complain if a treasure hunter digs it up in a few years 😊
 
-#### Home 🏡
+### Home 🏡
 Just where you wake up every day. Try to keep its location off the internet. You'll be keeping a **Home Safe** there and a **Desk Safe**.
 
 ### Office 📤
