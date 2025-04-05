@@ -195,7 +195,7 @@ I have picked these for the widest compatibility, and Keystone especially becaus
 
 You can use any three you want, if they work with your signing tablets. They ought to be different makes to diversify risk. 
 
-[Diceware](https://github.com/dstodolny/BIP39-diceware)is a command-line alternative for creating seed phrases with dice.
+[Diceware](https://github.com/dstodolny/BIP39-diceware) is a command-line alternative for creating seed phrases with dice.
 
 - [Trezor Safe 5](https://trezor.io/trezor-safe-5-black-graphite)
 - [Ledger Shift](https://shop.ledger.com/products/ledger-flex/graphite)
