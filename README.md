@@ -127,7 +127,7 @@ Somewhere you can work which is available during normal hours and has some indep
 
 Have two trustworthy independent friends. They will each hold one of your steel backup plates.
 
-They should know the circumstances under which they should hand them over, e.g., to you in person, not distressed nor intoxicated, or to your heirs if you are dead, or your trustee if you are incapable. They do not need to be technical at all.
+They should know the circumstances under which they should hand them over, e.g., to you in person, not distressed nor intoxicated, or to your heirs if you are dead, or your attorney if you are incapable. They do not need to be technical at all.
 
 ![Friend protecting with sword](images/guardian.jpg)
 
@@ -207,6 +207,7 @@ We will use your phone as the signing device for the **Personal** wallet to avoi
 
 
 ### Other Stuff
+
 | Name | Purpose | Cost |
 |------|---------|------|
 | AirTag(s) | Track the **Personal** hardware wallet in case of loss. Maybe **Home** and **Office** if you are worried about them. | $29–35 |
