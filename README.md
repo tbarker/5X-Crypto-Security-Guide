@@ -87,25 +87,24 @@ We will keep your assets in multi-signature Safe Vaults, and each of these Vault
 
 It is possible for someone else to get access to 3 out of 5 wallets, if they can gain access to your **Stash**, a **Guardian**, and they know your **Static** passphrase. This is what will happen if you pass away or get too sick to manage yourself.
 
-### Locations
+## Locations
 
 These are places to put your wallets. Some of them are physical locations, some are people, and some are services. Think of them as facilities rather specific buildings/roles.
 
-#### Personal 💼
+### Personal 💼
 
 The things you carry around with you day to day. Your purse, or briefcase.
 
 ![Purse with a Ledger](images/purse.jpg)
 
 
-#### Stash 🏦
+### Stash 🏦
 
 This is a location outside of your normal life that someone else can access with your consent. A rented box in a professionally secured vault would be ideal. These are available from many providers, your bank probably does this.
 
 In most jurisdictions, the existence of this box will be disclosed to the authorities. However, the upside is that you can make *formal binding* arrangements for access in the event of your death or incapacity. Even if your lawyer conspires with your friends to access your safety deposit box with a false will and death certificate, it is unlikely they will sign themselves in and out of building with witnesses to do this.
 
 ![Widow opening bank box](images/widow.jpg)
-
 
 You won't need to visit the **Stash** very often, so why not place it at a safe distance from your home? Worried about over-aggressive authorities. Why not in another country?
 
@@ -114,11 +113,11 @@ You could dig a deep hole in the local forest that's described to your heirs. Do
 #### Home 🏡
 Just where you wake up every day. Try to keep its location off the internet. You'll be keeping a **Home Safe** there and a **Desk Safe**.
 
-#### Office 📤
+### Office 📤
 
 Somewhere you can work which is available during normal hours and has some independent security. Mostly it should have CCTV and be 20 minutes plus from your **Home**. It will need a **Desk Safe**. A coworking space, or your small business if you have one, or even, a gym club.
 
-#### Guardian A/B 🫂
+### Guardian A/B 🫂
 
 Have two trustworthy independent friends. They will each hold one of your steel backup plates.
 
@@ -126,8 +125,7 @@ They should know the circumstances under which they should hand them over, e.g.,
 
 They should **not know** your **Static** passphrase nor who the other one is. Choose people from different spheres of your life, perhaps even living in different countries. They should not be your lawyer or a person who might hold your Power of Attorney.
 
-
-#### Legal 👩‍⚖️
+### Legal 👩‍⚖️
 
 Someone who will hold Will and your Letter of Wishes/Instruction, ensuring they are passed to the correct people in the event of your death or an accident that incapacitates you. (Note that Wills and Power of Attorney are usually public documents, and so a poor place to pass along secrets.)
 
@@ -143,11 +141,11 @@ Include the following in your Letter of Wishes:
 ![Will](images/rest.jpg)
 
 
-### Safes
+## Safes
 
 The main aim is to stop anything going missing without that being noticed, so there's no need to go overboard. With that said, you likely have watches, jewellery, etc, to protect too.
 
-#### Home Safe
+### Home Safe
 
 A safe place in (or very near) your home. Ideally a properly installed safe if you have time and money to install one. A hidden floor safe encased in concrete is a great investment if you have a lot of valuables to protect. But there's a huge variety of affordable options, including wall safes, lock boxes, even fake wall sockets, plants, and books.
 
@@ -165,7 +163,7 @@ Or, you could seal everything in a mason jar to bury on your land 😊
 
 ![Mason Jar](images/mason.jpg)
 
-#### Desk Safes
+### Desk Safes
 
 Easily accessible secure storage near a workspace, such as a lock box or desk drawer safe. It should be tamper-evident and fixed in place. A laptop safe or office locker would work well.
 
