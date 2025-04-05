@@ -200,12 +200,12 @@ We will use your phone as the signing device for the **Personal** wallet to avoi
 ### Other Stuff
 | Name | Purpose | Cost |
 |------|---------|------|
-| AirTag | Track the location of **Personal** hardware wallets in case of loss. | $29–35 |
-| Keyring hoops | Attach hardware wallets to chains and other security measures. | $5–10 |
+| AirTag(s) | Track the **Personal** hardware wallet in case of loss. Maybe **Home** and **Office** if you are worried about them. | $29–35 |
+| Keyring hoops | Attach hardware wallets to chains and other security measures. Just get a variety bag. | $5–10 |
 | Long chains | Physically secure hardware wallets to desks or safes to prevent theft or accidental/lazy removal. | $15–30 |
-| Keyring toy | Disguise your AirTag as a harmless decorative item whilst keeping it attached to valuable items. | $5–15 |
-| Super Glue / Epoxy | Permanently attach chains, toys and AirTags to hardware wallets and cases. | $10–20 |
-| Single six-sided casino dice | Generate truly random numbers for wallet creation. Casino dice ensure better randomness. | $5–15 |
+| Keyring toy | It will make your hardware key much much harder to loose. | $5–15 |
+| Super Glue / Epoxy | Bind chains, toys and AirTags to hardware wallets and cases. | $10–20 |
+| Single six-sided casino dice | Generate truly random numbers for wallets. Casino dice ensure better randomness. | $5–15 |
 | Tamper evident bags | See if anyone might have looked at a **Steel Plate**. | $20–40 for pack |
 | Sticky Labels | Clearly mark all items to avoid confusions. | $5–10 |
 
