@@ -4,7 +4,7 @@ Inspired by the [10x Bitcoin Security Guide](https://btcguide.github.io), this i
 
 ![Peace](images/peace.jpg)
 
-It is written for tech-literate crypto holders who have mostly normal lives, a family, relatives, etc. Someone who got involved in a TGE, or got lucky on Kraken a few times, and isn't ready to cash out yet.
+It is written for tech-literate crypto holders who have mostly normal lives, a family, relatives, etc. Someone who got involved in a TGE, or got lucky on Kraken a few times, and isn't ready to cash out yet. The crypto mass affluent 🙂
 
 We're only trying to cover your "treasury". The funds you don't trade, and access every other month or so.
 
@@ -261,6 +261,15 @@ Every time you use something for the first time, **label it clearly**.
 19. Gather up the **Office** and Home **backup** plates and take them to your Safety **Deposit Box**. Make sure they have your contingency plans for death or incapacity on file.
 20. Deliver each of the **Guardian** backup plates to their respective **Guardians**.
 21. Collect the spare materials including the spare phone and put them somewhere safe.
+
+This is a public guide on the internet. If you're concerned about physical safety, you should mix it up a bit just to be sure. Have a glitter bomb in the decoy desk safe or something 😄
+
+### ENS Names (optional)
+
+Reduce your risk of sending funds to the wrong addresses by giving an ENS domain [user friendly names for Ethereum addreeses] to *each* **Holding**, with sub-domains for each address that **Holding** regularly interact with. For example, `kraken-deposit.wibble-womble.eth`.
+
+Remember ENS names are public on-chain.
+
 
 ## Failure and Recovery
 
