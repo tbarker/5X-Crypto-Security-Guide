@@ -21,7 +21,7 @@ I am not rich enough to need this. This is how I wish my wealthy friends would g
 
 ## Required Knowledge
 
-To start this guide you should know:
+To start this guide you should understand:
 
 * How to use a hardware wallet
 * What a seedphrase is
@@ -72,8 +72,8 @@ With passphrases you can have one single seed with multiple different wallets. E
 We use one passphrase to hide each wallet. This prevents **Guardians** or people protecting your **Stash** (explained later), who hold your backup plates from accessing your wallets independently.
 
 We will use two different passphrases:
-- **Personal**, this will be lost with you if you die or are lying in a coma.
-- **Static**, which will go to whoever needs to deal with your assets if you are dead or lying in a coma.
+- **Personal**, this will be lost with you if you die or are incapacitated.
+- **Static**, which will be shared with whoever needs to deal with your assets if you are dead or incapacitated *at that time*.
 
 Don't confuse passphrases with the PIN to unlock your hardware wallet. PINs just control their own individual bit of hardware. 
 
@@ -89,7 +89,7 @@ It is possible for someone else to get access to 3 out of 5 wallets, if they can
 
 ## Locations
 
-These are places to put your wallets. Some of them are physical locations, some are people, and some are services. Think of them as facilities rather specific buildings/roles.
+These are places to put your wallets. Some of them are physical locations, some are people, and some are services. Think of them as facilities with a certain function rather specific buildings.
 
 ### Personal 💼
 
@@ -131,8 +131,7 @@ They should know the circumstances under which they should hand them over, e.g.,
 
 ![Friend protecting with sword](images/guardian.jpg)
 
-
-They should **not know** your **Static** passphrase nor who the other one is. Choose people from different spheres of your life, perhaps even living in different countries. They should not be your lawyer or a person who might hold your Power of Attorney.
+They should **not know** your **Static** passphrase nor who the other one is. Choose people from different spheres of your life, perhaps even living in different countries. They should **not be** your lawyer or a person who might hold your Power of Attorney.
 
 ### Legal 👩‍⚖️
 
@@ -152,7 +151,7 @@ Include the following in your Letter of Wishes:
 
 ## Safes
 
-The main aim is to stop anything going missing without that being noticed, so there's no need to go overboard. With that said, you likely have watches, jewellery, etc, to protect too.
+The main aim is to stop anything going missing without being noticed, so there's no need to go overboard. With that said, you likely have watches, jewellery, etc, to protect too.
 
 ### Home Safe
 
@@ -205,11 +204,15 @@ You can use any three you want, if they work with your signing tablets. They oug
 
 ### Signing Computers
 
+These are just for setting up and signing your transactions. Don't use them for anything else.
+
 - 1 × Android Tablet
 - 1 × Small iOS device
 - 1 × **Spare Phone** (Cheap emergency backup device for wallet recovery and transactions.)
 
 We will use your phone as the signing device for the **Personal** wallet to avoid an additional device.
+
+You don't have to use the specific software in the Setup Guide, but do not to use the Safe Vault Web interface for everything. That's how ByBit lost over a billion dollars!
 
 
 ### Other Stuff
@@ -260,6 +263,8 @@ Every time you use something for the first time, **label it clearly**.
 21. Collect the spare materials including the spare phone and put them somewhere safe.
 
 ## Failure and Recovery
+
+Here you can see how to recover from anything short of the destruction of your city, or a large conspiracy against you by your friends and  lawyers.
 
 ### Single Wallet Loss
 
