@@ -127,7 +127,7 @@ Somewhere you can work which is available during normal hours and has some indep
 
 Have two trustworthy independent friends. They will each hold one of your steel backup plates.
 
-They should know the circumstances under which they should hand them over, e.g., to you in person, not distressed nor intoxicated, or to your heirs if you are dead, or your attorney if you are incapable. They do not need to be technical at all.
+They should know the circumstances under which they should hand over their steel plate, e.g., to you in person, not distressed nor intoxicated, or to your heirs if you are dead, or your attorney if you are incapable. They do not need to be technical at all.
 
 ![Friend protecting with sword](images/guardian.jpg)
 
@@ -135,7 +135,7 @@ They should **not know** your **Static** passphrase nor who the other one is. Ch
 
 ### Legal 👩‍⚖️
 
-Someone who will hold Will and your Letter of Wishes/Instruction, ensuring they are passed to the correct people in the event of your death or an accident that incapacitates you. (Note that Wills and Power of Attorney are usually public documents, and so a poor place to pass along secrets.)
+Someone who will hold Will and your Letter of Wishes/Instruction, ensuring they are passed to the correct people in the event of your death or an accident that incapacitates you. (Note that Wills and Powers of Attorney are usually public documents, and so a poor place to pass along secrets.)
 
 You don't need to engage a blue-ribbon law firm. The consumer charity Which? runs [an online service](https://whichwills.which.co.uk) in the UK. Have a look around for what's available to you.
 
