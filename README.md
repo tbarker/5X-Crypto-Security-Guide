@@ -212,7 +212,7 @@ These are just for setting up and signing your transactions. Don't use them for 
 
 We will use your phone as the signing device for the **Personal** wallet to avoid an additional device.
 
-You don't have to use the specific software in the Setup Guide, but do not to use the Safe Vault Web interface for everything. That's how ByBit lost over a billion dollars!
+You don't have to use the specific software in the Setup Guide, but do not to use the Safe Vault Web interface for everything. That's how [ByBit lost over a billion dollars](https://www.nccgroup.com/us/research-blog/in-depth-technical-analysis-of-the-bybit-hack/)!
 
 
 ### Other Stuff
