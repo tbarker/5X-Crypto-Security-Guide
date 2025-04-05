@@ -111,17 +111,26 @@ You won't need to visit the **Stash** very often, so why not place it at a safe 
 You could dig a deep hole in the local forest that's described to your heirs. Do what works for you, but don't complain if a treasure hunter digs it up in a few years 😊
 
 ### Home 🏡
+
 Just where you wake up every day. Try to keep its location off the internet. You'll be keeping a **Home Safe** there and a **Desk Safe**.
+
+![A home](images/home.jpg)
+
 
 ### Office 📤
 
 Somewhere you can work which is available during normal hours and has some independent security. Mostly it should have CCTV and be 20 minutes plus from your **Home**. It will need a **Desk Safe**. A coworking space, or your small business if you have one, or even, a gym club.
+
+![Office](images/office.jpg)
 
 ### Guardian A/B 🫂
 
 Have two trustworthy independent friends. They will each hold one of your steel backup plates.
 
 They should know the circumstances under which they should hand them over, e.g., to you in person, not distressed nor intoxicated, or to your heirs if you are dead, or your trustee if you are incapable. They do not need to be technical at all.
+
+![Friend protecting with sword](images/guardian.jpg)
+
 
 They should **not know** your **Static** passphrase nor who the other one is. Choose people from different spheres of your life, perhaps even living in different countries. They should not be your lawyer or a person who might hold your Power of Attorney.
 
