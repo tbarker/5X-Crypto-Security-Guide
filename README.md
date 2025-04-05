@@ -242,10 +242,14 @@ Every time you use something for the first time, **label it clearly**.
 8. Use [Keystone Dice Mode](https://guide.keyst.one/docs/dice-roll) and the **Static** passphrase to make a wallet called **Guardian** B and restore that as your third Keystone Wallet.
 9. Set up Trezor as your **Office** wallet.
 10. Set up Ledger as your **Home** wallet.
-11. Install [Rabby Wallet](https://rabby.io) on your Android Wallet
-12. Install on your iOS:
-	1. [Metamask Mobile](https://metamask.io/en-GB/download)
-	2. [Safe Wallet Mobile](https://help.safe.global/en/articles/40805-connect-external-signer-key) app
+11. On your Android Wallet:
+ 1. Install [Rabby Wallet](https://rabby.io)
+ 2. Configure [1.1.1.1 for Families](https://one.one.one.one/family/)
+12. On your iOS:
+	1. Install [Metamask Mobile](https://metamask.io/en-GB/download)
+	2. Install [Safe Wallet Mobile](https://help.safe.global/en/articles/40805-connect-external-signer-key) app
+ 3.  2. Configure [1.1.1.1 for Families](https://one.one.one.one/family/)
+ 3. Turn on iOS [Lockdown mode](https://support.apple.com/en-gb/guide/iphone/iph049680987/ios).
 13. For each **Holding**:
 	1. Take the next available Ethereum address from each wallet.
 	2. Fund them with suitable coins, usually ETH.
