@@ -6,7 +6,7 @@ Inspired by the [10x Bitcoin Security Guide](https://btcguide.github.io), this i
 
 It is written for tech-literate crypto holders who have mostly normal lives, a family, relatives, etc. Someone who got involved in a TGE, or got lucky on Kraken a few times, and isn't ready to cash out yet. The crypto mass affluent 🙂
 
-This is a dreadfully Ethereum guide, but it should be easy to adapt to Bitcoin or Solana. As long as the wallet format is similar to Ethereum seedphrases. 
+This is a default Ethereum guide, but it should be easy to adapt to Bitcoin or Solana, as long as the wallet format is similar to Ethereum seedphrases. 
 
 We're only trying to cover your "treasury". The funds you don't trade, and access every other month or so.
 
@@ -35,7 +35,7 @@ To start this guide you should understand:
 ## First Things First
 
 * Pay taxes suitable to your home, standard of living, etc. In most countries, they **will** eventually get around to you.
-* Secure your phone and laptop. Do the Apple and Facebook privacy checks. Make sure no one ego snatches your phone can get anything. All that good stuff you've been putting off.
+* Secure your phone and laptop. Do the Apple and Facebook privacy checks. Make sure that if someone snatches your phone, they can't get anything. All that good stuff you've been putting off.
 * Have a will. It's inevitable 😞
 * Put in place a Power of Attorney so that someone you trust can look after your affairs if you are incapable.
 
@@ -91,7 +91,7 @@ It is possible for someone else to get access to 3 out of 5 wallets, if they can
 
 ## Locations
 
-These are places to put your wallets. Some of them are physical locations, some are people, and some are services. Think of them as facilities with a certain function rather specific buildings.
+These are places to put your wallets. Some of them are physical locations, some are people, and some are services. Think of them as facilities with a certain function rather than specific buildings.
 
 ### Personal 💼
 
@@ -108,7 +108,7 @@ In most jurisdictions, the existence of this box will be disclosed to the author
 
 ![Widow opening bank box](images/widow.jpg)
 
-You won't need to visit the **Stash** very often, so why not place it at a safe distance from your home? Worried about over-aggressive authorities. Why not in another country?
+You won't need to visit the **Stash** very often, so why not place it at a safe distance from your home? Worried about over-aggressive authorities? Why not in another country?"
 
 You could dig a deep hole in the local forest that's described to your heirs. Do what works for you, but don't complain if a treasure hunter digs it up in a few years 😊
 
@@ -205,7 +205,7 @@ You can use any three you want, if they work with your signing tablets. They oug
 | ![Ledger Flex](images/ledger-flex.jpg) | [Ledger Flex](https://shop.ledger.com/products/ledger-flex/graphite) | 2.84" E Ink® touchscreen; Bluetooth and USB-C connectivity; customizable lock screen; supports over 7,000 coins and tokens; integrates with Ledger Live app. | $199.00 |
 | ![Keystone 3 Pro](images/keystone-3-pro.jpg) | [Keystone 3 Pro](https://shop.keyst.one/products/keystone-3-pro) | 4-inch touchscreen; air-gapped security; open-source firmware; supports multiple crypto accounts; compatible with MetaMask and other wallets. | $149.00 |
 
-And honerable mention to the [Grid+ Lattice](https://gridplus.io/products/grid-lattice1). Well worth considering for your **Office** if you have multiple wallets to manage.
+And an honourable mention to the [Grid+ Lattice](https://gridplus.io/products/grid-lattice1). Well worth considering for your **Office** if you have multiple wallets to manage.
 
 We will also need 6 × **Steel Plates** for seed phrase backup (pick [something from here](https://jlopp.github.io/metal-bitcoin-storage-reviews/?ref=blog.lopp.net), but they're all basically Steel Plates 🙂)
 
@@ -222,7 +222,7 @@ These are just for setting up and signing your transactions. Don't use them for 
 
 We will use your phone as the signing device for the **Personal** wallet to avoid an additional device.
 
-You don't have to use the specific software in the Setup Guide, but do not to use the Safe Vault Web interface for everything. That's how [ByBit lost over a billion dollars](https://www.nccgroup.com/us/research-blog/in-depth-technical-analysis-of-the-bybit-hack/)!
+You don't have to use the specific software in the Setup Guide, but do not use the Safe Vault Web interface for everything. That's how [ByBit lost over a billion dollars](https://www.nccgroup.com/us/research-blog/in-depth-technical-analysis-of-the-bybit-hack/)!
 
 
 ### Other Stuff
@@ -232,7 +232,7 @@ You don't have to use the specific software in the Setup Guide, but do not to us
 | AirTag(s) | Track the **Personal** hardware wallet in case of loss. Maybe **Home** and **Office** if you are worried about them. | $29–35 |
 | Keyring hoops | Attach hardware wallets to chains and other security measures. Just get a variety bag. | $5–10 |
 | Long chains | Physically secure hardware wallets to desks or safes to prevent theft or accidental/lazy removal. | $15–30 |
-| Keyring toy | It will make your hardware key much much harder to loose. | $5–15 |
+| Keyring toy | It will make your hardware key much much harder to lose. | $5–15 |
 | Super Glue / Epoxy | Bind chains, toys and AirTags to hardware wallets and cases. | $10–20 |
 | Single six-sided casino dice | Generate truly random numbers for wallets. Casino dice ensure better randomness. | $5–15 |
 | Tamper evident bags | See if anyone might have looked at a **Steel Plate**. | $20–40 for pack |
@@ -278,18 +278,22 @@ Every time you create a seed phrase, stamp it into a back up **Steel Plate**.
 20. Deliver each of the **Guardian** backup plates to their respective **Guardians**.
 21. Collect the spare materials including the spare phone and put them somewhere safe.
 
-This is a public guide on the internet. If you're concerned about physical safety, you should mix it up a bit just to be sure. Have a glitter bomb in the decoy desk safe or something 😄
+This is a public guide on the internet. If you're concerned about physical safety, you should mix it up a bit just to be sure.
+
+![Joker card](images/joker.jpg)
+
+Have a glitter bomb in the decoy desk safe or something 😄
 
 ### ENS Names (optional)
 
-Reduce your risk of sending funds to the wrong addresses by giving an ENS domain [user friendly names for Ethereum addreeses] to *each* **Holding**, with sub-domains for each address that **Holding** regularly interact with. For example, `kraken-deposit.wibble-womble.eth`.
+Reduce your risk of sending funds to the wrong addresses by giving an ENS domain [user friendly names for Ethereum addreeses] to *each* **Holding**, with sub-domains for each address that **Holding** regularly interacts with. For example, `kraken-deposit.wibble-womble.eth`.
 
 Remember ENS names are public on-chain.
 
 
 ## Failure and Recovery
 
-Here you can see how to recover from anything short of the destruction of your city, or a large conspiracy against you by your friends and  lawyers.
+Here you can see how to recover from anything short of the destruction of your city, or a large conspiracy against you by your friends and lawyers.
 
 ### Single Wallet Loss
 
@@ -321,7 +325,7 @@ Try to be a bit careful about bringing all your signing wallets together in the 
 7. If the fate of the hardware wallets is unknown, e.g., someone could eventually break into them, they should each be treated as a **Single Wallet Loss**. Sorry 😢
 8. Put all the *current* backup steel plates and hardware wallets back where they should be.
 
-### Loss of Stack location
+### Loss of Stash Location
 
 1. Get a new **Stash** (or at least a new mason jar in your garden for the time being)
 2. Treat **Home** as a **Single Wallet Loss**
@@ -331,7 +335,7 @@ Try to be a bit careful about bringing all your signing wallets together in the 
 
 ### Bitcoin only
 
-Trezor and Keystone have Bitcoin-only firmware. You might also want to consider the Bitcoin-only [ColdCard wallet](https://coldcard.com). You might find [creating a multisig more challenging](https://medium.com/@1700constantino/protect-your-bitcoin-with-an-electrum-multi-sig-wallet-with-coldcard-ledger-and-trezor-96397e4ce287), but [Electrum wallet](https://electrum.org) software and a few others have offered this for a while. You should definitely read [10x Bitcoin Security Guide](https://btcguide.github.io).
+Trezor and Keystone have Bitcoin-only firmware. You might also want to consider the Bitcoin-only [ColdCard wallet](https://coldcard.com). You might find [creating a multisig more challenging](https://medium.com/@1700constantino/protect-your-bitcoin-with-an-electrum-multi-sig-wallet-with-coldcard-ledger-and-trezor-96397e4ce287), but [Electrum wallet](https://electrum.org) software and a few others have offered this for a while. You should definitely read the [10x Bitcoin Security Guide](https://btcguide.github.io).
 
 ![Laser eyes](images/laser.jpg)
 
@@ -339,7 +343,7 @@ There is also [Casa](https://casa.io), which I'd recommend for less technical Bi
 
 ### I have no heirs. My death will be deflationary.
 
-Ignore the bits about Wills and just bury your "Safety Deposit Box".
+Ignore the bits about Wills and just bury your **Stash**.
 
 ![Man blowing bitcoin seeds into the wind.](images/deflate.jpg)
 
