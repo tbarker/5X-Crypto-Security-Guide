@@ -1,4 +1,4 @@
-# 5X-Crypto-Security-Guide
+# 5X Crypto Security Guide
 
 Inspired by the [10x Bitcoin Security Guide](https://btcguide.github.io), this is the advice I find myself giving over and over in a semi-prescriptive guide. You don't need to follow it exactly, and very few people will.
 
