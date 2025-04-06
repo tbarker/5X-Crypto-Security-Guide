@@ -167,7 +167,7 @@ Here are some recommended home safe options available on Amazon:
 | ![GHJGAGE 43.5" Tall Fireproof Wall Safe](images/ghjgage-wall-safe.jpg) | [GHJGAGE 43.5" Tall Fireproof Wall Safe](https://www.amazon.com/GHJGAGE-Fireproof-Wall-Safe-Removable/dp/B0BXW3HWXJ) | Fits between standard 16" studs; fireproof construction; digital keypad with removable shelf. | $259.99 |
 | ![Elder Welder Hidden Wall Safe with Air Vent Cover](images/elder-welder-wall-safe.jpg) | [Elder Welder Hidden Wall Safe with Air Vent Cover](https://www.amazon.com/Elder-Hidden-Wall-Safe-Cover/dp/B0CGVRWHY6) | Disguised as an air vent; easy to install; combination lock; fits between 16" studs. | $149.99 |
 | ![Marcree 3.0 Cubic Feet Home Safe](images/marcree-home-safe.jpg) | [Marcree 3.0 Cubic Feet Home Safe](https://www.amazon.com/Marcree-Compartment-Removable-Adjustable-Accessories/dp/B0CC8G4GN7) | Spacious 3.0 cubic feet capacity; fireproof and waterproof; removable shelves and interior compartments for organized storage. | $399.99 |
-| ![TAHOE TRAILS Book Safe with Key Lock](images/41K0x9IzJkL._AC_US100_.jpg) | [TAHOE TRAILS Book Safe with Key Lock](https://www.amazon.com/TAHOE-TRAILS-Tahoe-trails-safe/dp/B09BCGS4MF) | Disguised as a book; compact steel safe; key lock; ideal for storing money, passports, jewelry, and more. | $13.99 |
+| ![TAHOE TRAILS Book Safe with Key Lock](images/tahoe-trails-book-safe.jpg) | [TAHOE TRAILS Book Safe with Key Lock](https://www.amazon.com/TAHOE-TRAILS-Tahoe-trails-safe/dp/B09BCGS4MF) | Disguised as a book; compact steel safe; key lock; ideal for storing money, passports, jewelry, and more. | $13.99 |
 
 Or, you could seal everything in a mason jar to bury on your land 😊
 
@@ -201,14 +201,16 @@ You can use any three you want, if they work with your signing tablets. They oug
 
 | Image | Name | Features | Price |
 |-------|------|----------|-------|
-| ![Trezor Safe 5](https://assets.website-files.com/5f6b7190899f0c5f4f0d1c3e/5f6b7190899f0c7f6e0d1c5f_trezor-safe-5.jpg) | [Trezor Safe 5](https://trezor.io/trezor-safe-5-black-graphite) | 1.54" color touchscreen with haptic feedback; Secure Element (EAL 6+); supports thousands of coins and tokens; integrates with Trezor Suite app. | $179.00 |
-| ![Ledger Flex](https://www.ledger.com/images/ledger-flex.jpg) | [Ledger Flex](https://shop.ledger.com/products/ledger-flex/graphite) | 2.84" E Ink® touchscreen; Bluetooth and USB-C connectivity; customizable lock screen; supports over 7,000 coins and tokens; integrates with Ledger Live app. | $199.00 |
-| ![Keystone 3 Pro](https://keyst.one/images/keystone-3-pro.jpg) | [Keystone 3 Pro](https://keyst.one/shop/products/keystone-3-pro) | 4-inch touchscreen; air-gapped security; open-source firmware; supports multiple crypto accounts; compatible with MetaMask and other wallets. | $149.00 |
+| ![Trezor Safe 5](images/trezor-safe-5.jpg) | [Trezor Safe 5](https://trezor.io/trezor-safe-5-black-graphite) | 1.54" color touchscreen with haptic feedback; Secure Element (EAL 6+); supports thousands of coins and tokens; integrates with Trezor Suite app. | $179.00 |
+| ![Ledger Flex](images/ledger-flex.jpg) | [Ledger Flex](https://shop.ledger.com/products/ledger-flex/graphite) | 2.84" E Ink® touchscreen; Bluetooth and USB-C connectivity; customizable lock screen; supports over 7,000 coins and tokens; integrates with Ledger Live app. | $199.00 |
+| ![Keystone 3 Pro](images/keystone-3-pro.jpg) | [Keystone 3 Pro](https://shop.keyst.one/products/keystone-3-pro) | 4-inch touchscreen; air-gapped security; open-source firmware; supports multiple crypto accounts; compatible with MetaMask and other wallets. | $149.00 |
 
 And honerable mention to the [Grid+ Lattice](https://gridplus.io/products/grid-lattice1). Well worth considering for your **Office** if you have multiple wallets to manage.
 
+We will also need 6 × **Steel Plates** for seed phrase backup (pick [something from here](https://jlopp.github.io/metal-bitcoin-storage-reviews/?ref=blog.lopp.net), but they're all basically Steel Plates 🙂)
 
-We will also need 6 × **Steel Plates** for Seedphrase Backup (pick [something from here](https://jlopp.github.io/metal-bitcoin-storage-reviews/?ref=blog.lopp.net), but they're all basically Steel Plates 🙂)
+![Steel plate](images/steel.jpg)
+
 
 ### Signing Computers
 
