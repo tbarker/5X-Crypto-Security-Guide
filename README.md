@@ -205,6 +205,9 @@ You can use any three you want, if they work with your signing tablets. They oug
 | ![Ledger Flex](https://www.ledger.com/images/ledger-flex.jpg) | [Ledger Flex](https://shop.ledger.com/products/ledger-flex/graphite) | 2.84" E Ink® touchscreen; Bluetooth and USB-C connectivity; customizable lock screen; supports over 7,000 coins and tokens; integrates with Ledger Live app. | $199.00 |
 | ![Keystone 3 Pro](https://keyst.one/images/keystone-3-pro.jpg) | [Keystone 3 Pro](https://keyst.one/shop/products/keystone-3-pro) | 4-inch touchscreen; air-gapped security; open-source firmware; supports multiple crypto accounts; compatible with MetaMask and other wallets. | $149.00 |
 
+And honerable mention to the [Grid+ Lattice](https://gridplus.io/products/grid-lattice1). Well worth considering for your **Office** if you have multiple wallets to manage.
+
+
 We will also need 6 × **Steel Plates** for Seedphrase Backup (pick [something from here](https://jlopp.github.io/metal-bitcoin-storage-reviews/?ref=blog.lopp.net), but they're all basically Steel Plates 🙂)
 
 ### Signing Computers
