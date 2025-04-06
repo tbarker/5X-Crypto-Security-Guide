@@ -108,7 +108,7 @@ In most jurisdictions, the existence of this box will be disclosed to the author
 
 ![Widow opening bank box](images/widow.jpg)
 
-You won't need to visit the **Stash** very often, so why not place it at a safe distance from your home? Worried about over-aggressive authorities? Why not in another country?"
+You won't need to visit the **Stash** very often, so why not place it at a safe distance from your home? Worried about over-aggressive authorities? Why not in another country?
 
 You could dig a deep hole in the local forest that's described to your heirs. Do what works for you, but don't complain if a treasure hunter digs it up in a few years 😊
 
@@ -260,7 +260,7 @@ Every time you create a seed phrase, stamp it into a back up **Steel Plate**.
 12. On your iOS:
 	1. Install [Metamask Mobile](https://metamask.io/en-GB/download)
 	2. Install [Safe Wallet Mobile](https://help.safe.global/en/articles/40805-connect-external-signer-key) app
- 	3. Configure [1.1.1.1 for Families](https://one.one.one.one/family/)
+	3. Configure [1.1.1.1 for Families](https://one.one.one.one/family/)
 	4. Turn on iOS [Lockdown mode](https://support.apple.com/en-gb/guide/iphone/iph049680987/ios).
 13. For each **Holding**:
 	1. Take the next available Ethereum address from each wallet.
