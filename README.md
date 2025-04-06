@@ -141,8 +141,6 @@ Someone who will hold Will and your Letter of Wishes/Instruction, ensuring they 
 
 You don't need to engage a blue-ribbon law firm. The consumer charity Which? runs [an online service](https://whichwills.which.co.uk) in the UK. Have a look around for what's available to you.
 
-Pamela Morgan of Empowered Law, has written [a free inheritance letter template](https://empoweredlaw.com/letter-to-loved-ones-a-template-for-your-first-cryptoasset-inheritance-plan/) that is a great start for your own letters.
-
 ![Accident](images/accident.jpg)
 
 Include the following in your Letter of Wishes:
@@ -151,6 +149,8 @@ Include the following in your Letter of Wishes:
 * The location and process for opening your **Stash**. Remember your heirs or attorney are not you — and any people at the **Stash**, e.g. the safety deposit company, will not know what to do with them unless you tell them.
 
 ![Will](images/rest.jpg)
+
+Pamela Morgan of Empowered Law, has written [a free inheritance letter template](https://empoweredlaw.com/letter-to-loved-ones-a-template-for-your-first-cryptoasset-inheritance-plan/) that is a great start for your own letters.
 
 
 ## Safes
