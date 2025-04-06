@@ -199,10 +199,13 @@ You can use any three you want, if they work with your signing tablets. They oug
 
 [Diceware](https://github.com/dstodolny/BIP39-diceware) is a command-line alternative for creating seed phrases with dice.
 
-- [Trezor Safe 5](https://trezor.io/trezor-safe-5-black-graphite)
-- [Ledger Shift](https://shop.ledger.com/products/ledger-flex/graphite)
-- [Keystone Pro](https://shop.keyst.one/products/keystone-3-pro)
-- 6 × **Steel Plates** for Seedphrase Backup (pick [something from here](https://jlopp.github.io/metal-bitcoin-storage-reviews/?ref=blog.lopp.net), but they're all basixally Steel Plates 🙂)
+| Image | Name | Features | Price |
+|-------|------|----------|-------|
+| ![Trezor Safe 5](https://assets.website-files.com/5f6b7190899f0c5f4f0d1c3e/5f6b7190899f0c7f6e0d1c5f_trezor-safe-5.jpg) | [Trezor Safe 5](https://trezor.io/trezor-safe-5-black-graphite) | 1.54" color touchscreen with haptic feedback; Secure Element (EAL 6+); supports thousands of coins and tokens; integrates with Trezor Suite app. | $179.00 |
+| ![Ledger Flex](https://www.ledger.com/images/ledger-flex.jpg) | [Ledger Flex](https://shop.ledger.com/products/ledger-flex/graphite) | 2.84" E Ink® touchscreen; Bluetooth and USB-C connectivity; customizable lock screen; supports over 7,000 coins and tokens; integrates with Ledger Live app. | $199.00 |
+| ![Keystone 3 Pro](https://keyst.one/images/keystone-3-pro.jpg) | [Keystone 3 Pro](https://keyst.one/shop/products/keystone-3-pro) | 4-inch touchscreen; air-gapped security; open-source firmware; supports multiple crypto accounts; compatible with MetaMask and other wallets. | $149.00 |
+
+We will also need 6 × **Steel Plates** for Seedphrase Backup (pick [something from here](https://jlopp.github.io/metal-bitcoin-storage-reviews/?ref=blog.lopp.net), but they're all basically Steel Plates 🙂)
 
 ### Signing Computers
 
