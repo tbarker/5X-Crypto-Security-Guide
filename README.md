@@ -6,7 +6,7 @@ Inspired by the [10x Bitcoin Security Guide](https://btcguide.github.io), this i
 
 It is written for tech-literate crypto holders who have mostly normal lives, a family, relatives, etc. Someone who got involved in a TGE, or got lucky on Kraken a few times, and isn't ready to cash out yet. The crypto mass affluent 🙂
 
-This is a default Ethereum guide, but it should be easy to adapt to Bitcoin or Solana, as long as the wallet format is similar to Ethereum seedphrases. 
+This is a default Ethereum guide, but it should be easy to adapt to Bitcoin or Solana, as long as the wallet format is similar to Ethereum seed phrases. 
 
 We're only trying to cover your "treasury". The funds you don't trade, and access every other month or so.
 
@@ -26,7 +26,7 @@ I am not rich enough to need this. This is how I wish my wealthy friends would g
 To start this guide you should understand:
 
 * How to use a hardware wallet
-* What a seedphrase is
+* What a seed phrase is
 * That one wallet can have an infinite number of addresses
 * That everything you do on-chain is visible
 * Using DApps with Metamask or similar
@@ -102,15 +102,17 @@ The things you carry around with you day to day. Your purse, or briefcase.
 
 ### Stash 🏦
 
-This is a location outside of your normal life that someone else can access with your consent. A rented box in a professionally secured vault would be ideal. These are available from many providers, your bank probably does this.
+This is a location outside of your normal life that someone else can access with your consent.
+
+A rented box in a professionally secured vault would be ideal. These are available from many providers, your bank probably does this. A very small safety deposit box might [only cost you $35/year](https://ridgedalefcu.org/investing/safe-deposit-boxes) from your local credit union.
 
 In most jurisdictions, the existence of this box will be disclosed to the authorities. However, the upside is that you can make *formal binding* arrangements for access in the event of your death or incapacity. Even if your lawyer conspires with your friends to access your safety deposit box with a false will and death certificate, it is unlikely they will sign themselves in and out of building with witnesses to do this.
 
 ![Widow opening bank box](images/widow.jpg)
 
-You won't need to visit the **Stash** very often, so why not place it at a safe distance from your home? Worried about over-aggressive authorities? Why not in another country?
-
 You could dig a deep hole in the local forest that's described to your heirs. Do what works for you, but don't complain if a treasure hunter digs it up in a few years 😊
+
+You won't need to visit the **Stash** very often, so why not place it at a safe distance from your home? Worried about over-aggressive authorities? Why not choose another country?
 
 ### Home 🏡
 
@@ -121,7 +123,7 @@ Just where you wake up every day. Try to keep its location off the internet. You
 
 ### Office 📤
 
-Somewhere you can work which is available during normal hours and has some independent security. Mostly it should have CCTV and be 20 minutes plus from your **Home**. It will need a **Desk Safe**. A coworking space, or your small business if you have one, or even, a gym club.
+Somewhere you can work which is available during normal hours and has some independent security. Mostly it should have CCTV and be 20 minutes plus from your **Home**. It will need a **Desk Safe**. A co-working space, or your small business if you have one, or even, a gym club.
 
 ![Office](images/office.jpg)
 
@@ -169,7 +171,7 @@ Here are some recommended home safe options available on Amazon:
 | ![GHJGAGE 43.5" Tall Fireproof Wall Safe](images/ghjgage-wall-safe.jpg) | [GHJGAGE 43.5" Tall Fireproof Wall Safe](https://www.amazon.com/GHJGAGE-Fireproof-Wall-Safe-Removable/dp/B0BXW3HWXJ) | Fits between standard 16" studs; fireproof construction; digital keypad with removable shelf. | $259.99 |
 | ![Elder Welder Hidden Wall Safe with Air Vent Cover](images/elder-welder-wall-safe.jpg) | [Elder Welder Hidden Wall Safe with Air Vent Cover](https://www.amazon.com/Elder-Hidden-Wall-Safe-Cover/dp/B0CGVRWHY6) | Disguised as an air vent; easy to install; combination lock; fits between 16" studs. | $149.99 |
 | ![Marcree 3.0 Cubic Feet Home Safe](images/marcree-home-safe.jpg) | [Marcree 3.0 Cubic Feet Home Safe](https://www.amazon.com/Marcree-Compartment-Removable-Adjustable-Accessories/dp/B0CC8G4GN7) | Spacious 3.0 cubic feet capacity; fireproof and waterproof; removable shelves and interior compartments for organized storage. | $399.99 |
-| ![TAHOE TRAILS Book Safe with Key Lock](images/tahoe-trails-book-safe.jpg) | [TAHOE TRAILS Book Safe with Key Lock](https://www.amazon.com/TAHOE-TRAILS-Tahoe-trails-safe/dp/B09BCGS4MF) | Disguised as a book; compact steel safe; key lock; ideal for storing money, passports, jewelry, and more. | $13.99 |
+| ![TAHOE TRAILS Book Safe with Key Lock](images/tahoe-trails-book-safe.jpg) | [TAHOE TRAILS Book Safe with Key Lock](https://www.amazon.com/TAHOE-TRAILS-Tahoe-trails-safe/dp/B09BCGS4MF) | Disguised as a book; compact steel safe; key lock; ideal for storing money, passports, jewellery, and more. | $13.99 |
 
 Or, you could seal everything in a mason jar to bury on your land 😊
 
@@ -186,7 +188,7 @@ Here are some recommended desk safe options available on Amazon:
 | Image | Name | Features | Price |
 |-------|------|----------|-------|
 | ![Heavy Duty Steel Under Desk Handgun Safe](images/under-desk-handgun-safe.jpg) | [Heavy Duty Steel Under Desk Handgun Safe](https://www.amazon.com/Heavy-Duty-Steel-Under-Desk/dp/B09ZDVWRBN) | Slide-away design with electronic keypad; can be mounted under a desk. | $139.99 |
-| ![Amazon Basics Steel Security Safe and Lock Box](images/amazonbasics-security-safe.jpg) | [Amazon Basics Steel Security Safe and Lock Box](https://www.amazon.com/Amazon-Basics-Security-Electronic-Keypad/dp/B00UG9HB1Q) | Electronic keypad with backup key; 0.5 cubic feet capacity; suitable for securing cash, jewelry, and ID documents. | $49.99 |
+| ![Amazon Basics Steel Security Safe and Lock Box](images/amazonbasics-security-safe.jpg) | [Amazon Basics Steel Security Safe and Lock Box](https://www.amazon.com/Amazon-Basics-Security-Electronic-Keypad/dp/B00UG9HB1Q) | Electronic keypad with backup key; 0.5 cubic feet capacity; suitable for securing cash, jewellery, and ID documents. | $49.99 |
 | ![Master Lock 5900D Portable Personal Safe](images/masterlock-portable-safe.jpg) | [Master Lock 5900D Portable Personal Safe](https://www.amazon.com/Master-Lock-Portable-Personal-5900D/dp/B005K6JQXQ) | Portable safe with combination lock; includes cable to secure to fixed objects; ideal for securing small valuables. | $27.99 |
 | ![Amazon Basics Small Slim Desk Drawer Security Safe](images/91RCwYk13UL._AC_SL1500_.jpg) | [Amazon Basics Small Slim Desk Drawer Security Safe](https://www.amazon.com/Amazon-Basics-Security-Programmable-Electronic/dp/B078WPCQWK) | Slim design fits conveniently inside a drawer; programmable electronic keypad; emergency backup key included. | $48.24 |
 
@@ -284,7 +286,7 @@ This is a public guide on the internet. If you're concerned about physical safet
 
 ![Joker card](images/joker.jpg)
 
-Have a glitter bomb in the decoy desk safe or something 😄
+Have a glitter bomb in the decoy desk safe, [a few decoy wallets](https://x.com/PixOnChain/status/1910070486907953553), or something 😄
 
 ### ENS Names (optional)
 
@@ -306,7 +308,7 @@ If you lose a device, it's best to replace it if you don't know where it is. It'
 3. Install Metamask Mobile (or suitable crypto wallet app) on the **Spare Phone**.
 4. Use the phone as a replacement for the lost wallet.
 5. When the new wallet arrives, set it up as a new wallet, using your spare steel plate for the backup.
-6. Replace your old wallet (now on your phone), with the new wallet (on your new hardware wallet) on each of your **Holdings** multisigs.
+6. Replace your old wallet (now on your phone), with the new wallet (on your new hardware wallet) on each of your **Holdings** multi-sigs.
 7. Send spare assets from the old wallet on your phone into the multisig.
 8. Put the *new backup plate* in the location of the old one.
 9. Put the old backup plate in a drawer somewhere. It doesn't really matter any more.
