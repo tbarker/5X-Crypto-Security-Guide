@@ -1,10 +1,10 @@
 # 5X Crypto Security Guide
 
-Inspired by the [10x Bitcoin Security Guide](https://btcguide.github.io), this is the advice I find myself giving over and over in a semi-prescriptive guide. You don't need to follow it exactly, and very few people will.
+Inspired by the [10x Bitcoin Security Guide](https://btcguide.github.io), this is the advice I find myself giving over and over, written up as a semi-prescriptive guide. You don't need to follow it exactly, and very few people will.
 
 ![Peace](images/peace.jpg)
 
-It is written for tech-literate crypto holders who have mostly normal lives, a family, relatives, etc. Someone who got involved in a TGE, or got lucky on Kraken a few times, and isn't ready to cash out yet. The crypto mass affluent 🙂
+It is written for tech-literate crypto holders who have mostly normal lives, a family, relatives, etc. Someone who got involved in a TGE (token generation event), or got lucky on Kraken a few times, and isn't ready to cash out yet. The crypto mass affluent 🙂
 
 This is a default Ethereum guide, but it should be easy to adapt to Bitcoin or Solana, as long as the wallet format is similar to Ethereum seed phrases. 
 
@@ -16,7 +16,7 @@ I am not rich enough to need this. This is how I wish my wealthy friends would g
 
 - That you don't want, or cannot have, others operating wallets for you. (If you can, also look at [how Vitalik manages his Ether](https://x.com/VitalikButerin/status/1785562273433387320).)
 - Not overly worried about the State seizing assets.
-- You'd like to preclude casual wrench attacks. But are not concerned by coordinated attacks involving multiple locations.
+- You'd like to preclude casual [wrench attacks](https://xkcd.com/538/). But are not concerned by coordinated attacks involving multiple locations.
 - Access to assets within 24 hours while not travelling.
 - You do care about what happens if you are dead or incapacitated.
 - $150k to 5m in assets to protect
@@ -69,13 +69,13 @@ In doing this you should consider:
 
 A passphrase is an optional, advanced security feature that allows you to create a new wallet by adding an additional word to a 12–24 seed phrase.
 
-With passphrases you can have one single seed with multiple different wallets. Each wallet would be designated by a different passphrase.
+With passphrases you can have one single seed with multiple different wallets. Each passphrase unlocks a different wallet.
 
-We use one passphrase to hide each wallet. This prevents **Guardians** or people protecting your **Stash** (explained later), who hold your backup plates from accessing your wallets independently.
+We use a passphrase to protect each wallet. Without it, **Guardians** or people protecting your **Stash** (explained later) cannot access your wallets using the backup plates alone.
 
 We will use two different passphrases:
 - **Personal**, this will be lost with you if you die or are incapacitated.
-- **Static**, which will be shared with whoever needs to deal with your assets if you are dead or incapacitated *at that time*.
+- **Static**, which will be shared after your death or incapacity with whoever needs to deal with your assets.
 
 Don't confuse passphrases with the PIN to unlock your hardware wallet. PINs just control their own individual bit of hardware. 
 
@@ -87,7 +87,7 @@ In the 5X model, we separate your keys into 5 locations, locked with 2 passphras
 
 We will keep your assets in multi-signature Safe Vaults, and each of these Vaults will require 3 of your 5 wallets to move any assets.
 
-It is possible for someone else to get access to 3 out of 5 wallets, if they can gain access to your **Stash**, a **Guardian**, and they know your **Static** passphrase. This is what will happen if you pass away or get too sick to manage yourself.
+It is possible for someone else to get access to 3 out of 5 wallets, if they can retrieve backup plates from your **Stash** (2 plates) and a **Guardian** (1 plate), and they know your **Static** passphrase. This is what will happen if you pass away or get too sick to manage yourself.
 
 ## Locations
 
@@ -106,7 +106,7 @@ This is a location outside of your normal life that someone else can access with
 
 A rented box in a professionally secured vault would be ideal. These are available from many providers, your bank probably does this. A very small safety deposit box might [only cost you $35/year](https://ridgedalefcu.org/investing/safe-deposit-boxes) from your local credit union.
 
-In most jurisdictions, the existence of this box will be disclosed to the authorities. However, the upside is that you can make *formal binding* arrangements for access in the event of your death or incapacity. Even if your lawyer conspires with your friends to access your safety deposit box with a false will and death certificate, it is unlikely they will sign themselves in and out of building with witnesses to do this.
+In most jurisdictions, the existence of this box will be disclosed to the authorities. However, the upside is that you can make *formal binding* arrangements for access in the event of your death or incapacity. Even if your lawyer conspires with your friends to access your safety deposit box with a false will and death certificate, it is unlikely they would sign themselves in and out of the building in front of witnesses to commit fraud.
 
 ![Widow opening bank box](images/widow.jpg)
 
@@ -123,7 +123,7 @@ Just where you wake up every day. Try to keep its location off the internet. You
 
 ### Office 📤
 
-Somewhere you can work which is available during normal hours and has some independent security. Mostly it should have CCTV and be 20 minutes plus from your **Home**. It will need a **Desk Safe**. A co-working space, or your small business if you have one, or even, a gym club.
+Somewhere you can work which is available during normal hours. It should have independent security and be at least 20 minutes from your **Home**. It will need a **Desk Safe**. A co-working space, or your small business if you have one, or even, a gym club.
 
 ![Office](images/office.jpg)
 
@@ -139,7 +139,7 @@ They should **not know** your **Static** passphrase nor who the other one is. Ch
 
 ### Legal 👩‍⚖️
 
-Someone who will hold Will and your Letter of Wishes/Instruction, ensuring they are passed to the correct people in the event of your death or an accident that incapacitates you. (Note that Wills and Powers of Attorney are usually public documents, and so a poor place to pass along secrets.)
+Someone who will hold Will and your Letter of Wishes/Instruction, ensuring they are passed to the correct people in the event of your death or an accident that incapacitates you. Note that Wills become public after probate, so use your Letter of Wishes for secrets.
 
 You don't need to engage a blue-ribbon law firm. The consumer charity Which? runs [an online service](https://whichwills.which.co.uk) in the UK. Have a look around for what's available to you.
 
@@ -148,7 +148,7 @@ You don't need to engage a blue-ribbon law firm. The consumer charity Which? run
 Include the following in your Letter of Wishes:
 * **Static** passphrase
 * Identity of your two **Guardians**
-* The location and process for opening your **Stash**. Remember your heirs or attorney are not you — and any people at the **Stash**, e.g. the safety deposit company, will not know what to do with them unless you tell them.
+* The location and process for opening your **Stash**. Remember your heirs or attorney are not you — and any people at the **Stash**, e.g. the safety deposit company, will not know what to do unless you tell them.
 
 ![Will](images/rest.jpg)
 
@@ -254,8 +254,8 @@ Every time you create a seed phrase, stamp it into a back up **Steel Plate**.
 4. Mark the iOS device as **Home**, and the Android Tablet as Office. Use them *only with their associated location's hardware* wallet from now on.
 5. Set up Keystone wallet using **Personal** passphrase.
 6. Epoxy a keychain with the small toy and AirTag to the Keystone.
-7. Use the Keystone Dice Mode and **Static** passphrase to set up one more wallet, called **Guardian** A. (Keystone allows for up to 3 independent wallets.)
-8. Use [Keystone Dice Mode](https://guide.keyst.one/docs/dice-roll) and the **Static** passphrase to make a wallet called **Guardian** B and restore that as your third Keystone Wallet.
+7. Use [Keystone Dice Mode](https://guide.keyst.one/docs/dice-roll) and **Static** passphrase to set up a second Keystone wallet, called **Guardian** A.
+8. Use Keystone Dice Mode and the **Static** passphrase to set up a third Keystone wallet, called **Guardian** B.
 9. Set up Trezor as your **Office** wallet.
 10. Set up Ledger as your **Home** wallet.
 11. On your Android Wallet:
@@ -278,7 +278,7 @@ Every time you create a seed phrase, stamp it into a back up **Steel Plate**.
 16. Put the backup plate for your **Personal** in your **Home Safe.**
 17. Attach your **Home** wallet, e.g., the Ledger, to a desk using the chain, preferably out of sight in a **Desk Safe** of some sort.
 18. Take your **Office** wallet, and the Android Tablet to your **Office** location and do similarly there.
-19. Gather up the **Office** and Home **backup** plates and take them to your Safety **Deposit Box**. Make sure they have your contingency plans for death or incapacity on file.
+19. Gather up the **Office** and **Home** backup plates and take them to your **Stash**. Make sure they have your contingency plans for death or incapacity on file.
 20. Deliver each of the **Guardian** backup plates to their respective **Guardians**.
 21. Collect the spare materials including the spare phone and put them somewhere safe.
 
@@ -290,7 +290,7 @@ Have a glitter bomb in the decoy desk safe, [a few decoy wallets](https://x.com/
 
 ### ENS Names (optional)
 
-Reduce your risk of sending funds to the wrong addresses by giving an ENS domain [user friendly names for Ethereum addreeses] to *each* **Holding**, with sub-domains for each address that **Holding** regularly interacts with. For example, `kraken-deposit.wibble-womble.eth`.
+Reduce your risk of sending funds to the wrong addresses by giving an [ENS domain](https://support.ens.domains/en/articles/7900404-what-is-ens) to *each* **Holding**, with sub-domains for each address that **Holding** regularly interacts with. For example, `kraken-deposit.wibble-womble.eth`.
 
 Remember ENS names are public on-chain.
 
@@ -316,9 +316,9 @@ If you lose a device, it's best to replace it if you don't know where it is. It'
 
 ### Loss of all hardware wallets
 
-This is if your **Home** and **Office** locations, plus your **Personal** hardware wallet are unavailable. This is also the scenario that your agent (either your heirs or your attorney) will face.
+This is if your **Home**, **Office**, and **Personal** locations are all unavailable. This is also the scenario that your agent (either your heirs or your attorney) will face.
 
-Try to be a bit careful about bringing all your signing wallets together in the same place.
+Avoid bringing all your signing wallets together in the same place.
 
 1. Buy new hardware wallets.
 2. If you are able, retrieve your backup steel plate from your **Home Safe**. If not, contact one of your **Guardians**.
