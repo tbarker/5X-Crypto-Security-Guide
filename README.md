@@ -185,15 +185,15 @@ Easily accessible secure storage near a workspace, such as a lock box or desk dr
 
 Ideally a place you can fix a hardware wallet to with a chain. If you can't chain an item in place, you can always AirTag the items and put them in a drawer. Gun safes could be great if they are available where you are.
 
-Here are some recommended desk safe options available on Amazon:
+Here are some recommended desk safe options from reputable manufacturers:
 
-| Image | Name | Features | Price |
-|-------|------|----------|-------|
-| ![Heavy Duty Steel Under Desk Handgun Safe](images/under-desk-handgun-safe.jpg) | [Heavy Duty Steel Under Desk Handgun Safe](https://www.amazon.com/Heavy-Duty-Steel-Under-Desk/dp/B09ZDVWRBN) | Slide-away design with electronic keypad; can be mounted under a desk. | $139.99 |
-| ![Amazon Basics Steel Security Safe and Lock Box](images/amazonbasics-security-safe.jpg) | [Amazon Basics Steel Security Safe and Lock Box](https://www.amazon.com/Amazon-Basics-Security-Electronic-Keypad/dp/B00UG9HB1Q) | Electronic keypad with backup key; 0.5 cubic feet capacity; suitable for securing cash, jewellery, and ID documents. | $49.99 |
-| ![Master Lock 5900D Portable Personal Safe](images/masterlock-portable-safe.jpg) | [Master Lock 5900D Portable Personal Safe](https://www.amazon.com/Master-Lock-Portable-Personal-5900D/dp/B005K6JQXQ) | Portable safe with combination lock; includes cable to secure to fixed objects; ideal for securing small valuables. | $27.99 |
-| ![Amazon Basics Small Slim Desk Drawer Security Safe](images/91RCwYk13UL._AC_SL1500_.jpg) | [Amazon Basics Small Slim Desk Drawer Security Safe](https://www.amazon.com/Amazon-Basics-Security-Programmable-Electronic/dp/B078WPCQWK) | Slim design fits conveniently inside a drawer; programmable electronic keypad; emergency backup key included. | $48.24 |
-| ![TAHOE TRAILS Book Safe with Key Lock](images/tahoe-trails-book-safe.jpg) | [TAHOE TRAILS Book Safe with Key Lock](https://www.amazon.com/TAHOE-TRAILS-Tahoe-trails-safe/dp/B09BCGS4MF) | Disguised as a book; compact steel safe; key lock; ideal for storing money, passports, jewellery, and more. | $13.99 |
+| Image | Manufacturer | Model | Description | Price |
+|-------|--------------|-------|-------------|-------|
+| ![Yale Certified Laptop Safe](images/121192.jpg.webp) | [Yale](https://www.yalehome.com/) (UK/USA, est. 1840) | [YLEM/200/EG1](https://www.safe.co.uk/products/yale-maximum-security-laptop-safe.html) | Certified laptop safe for screens up to 17". Sold Secure Silver, £2,000 cash / £20,000 valuables rating. 22mm motorised locking bolts, LED interior lighting. Electronic lock with concealed key override. 25L, 18kg. | £300–£400 (~$380–$500) |
+| ![Chubbsafes Air](images/Air-M15-EL-001720x720-1.png.webp) | [Chubbsafes](https://www.chubbsafes.com/) (UK, est. 1818) | [Air Laptop 25E](https://www.chubbsafes.com/en/products/air/) | Laptop safe for screens up to 15.5". £1,000 cash / £10,000 valuables rating. 4mm steel door, 2mm steel body. Electronic keypad with anti-bump technology and key override. 24L, 11kg. Base and rear fixing bolts included. | £260–£300 (~$330–$380) |
+| ![SentrySafe X055](images/X055_SS_knockout_01.png) | [SentrySafe](https://www.sentrysafe.com/) (USA, est. 1930) | [X055](https://www.sentrysafe.com/product/X055) | California DOJ Certified for firearm storage. 4 live-locking bolts, pry-resistant hinge bar. Electronic keypad with key override. Bolt-down kit included. 0.58 cu ft (16L), carpeted interior. | $80–$120 |
+| ![Amazon Basics Security Safe](images/amazonbasics-security-safe.jpg) | [Amazon Basics](https://www.amazon.com/) (USA) | [Steel Security Safe](https://www.amazon.com/Amazon-Basics-Security-Electronic-Keypad/dp/B00UG9HB1Q) | Budget electronic keypad safe with backup key. 0.5 cubic feet capacity. Suitable for securing cash, jewellery, and documents. Bolt-down hardware included. | $50 |
+| ![TAHOE TRAILS Book Safe](images/tahoe-trails-book-safe.jpg) | [TAHOE TRAILS](https://www.amazon.com/) (USA) | [Book Safe with Key Lock](https://www.amazon.com/TAHOE-TRAILS-Tahoe-trails-safe/dp/B09BCGS4MF) | Concealment safe disguised as a book. Compact steel construction with key lock. Ideal for hiding small valuables, passports, or seed phrase backups in plain sight on a bookshelf. | $14 |
 
 
 ## Shopping List
