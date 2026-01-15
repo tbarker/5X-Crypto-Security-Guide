@@ -163,15 +163,17 @@ The main aim is to stop anything going missing without being noticed, so there's
 
 A safe place in (or very near) your home. Ideally a properly installed safe if you have time and money to install one. A hidden floor safe encased in concrete is a great investment if you have a lot of valuables to protect. But there's a huge variety of affordable options, including wall safes, lock boxes, even fake wall sockets, plants, and books.
 
-Here are some recommended home safe options available on Amazon:
+In Europe, the EN 1143-1 standard grades safes from 0 to VI based on burglary resistance, and in the US, Underwriters Laboratories (UL) provides ratings such as RSC (Residential Security Container), TL-15, and TL-30. So look for the lab tests.
 
-| Image | Name | Features | Price |
-|-------|------|----------|-------|
-| ![Stealth B5000 In-Ground Floor Safe](images/stealth-b5000-floor-safe.jpg) | [Stealth B5000 In-Ground Floor Safe](https://www.amazon.com/Stealth-Floor-Ground-Security-Mechanical/dp/B094T9RNP8) | Fully encased in concrete on five sides for maximum protection; hidden from plain view; mechanical lock for reliability. | $799.99 |
-| ![GHJGAGE 43.5" Tall Fireproof Wall Safe](images/ghjgage-wall-safe.jpg) | [GHJGAGE 43.5" Tall Fireproof Wall Safe](https://www.amazon.com/GHJGAGE-Fireproof-Wall-Safe-Removable/dp/B0BXW3HWXJ) | Fits between standard 16" studs; fireproof construction; digital keypad with removable shelf. | $259.99 |
-| ![Elder Welder Hidden Wall Safe with Air Vent Cover](images/elder-welder-wall-safe.jpg) | [Elder Welder Hidden Wall Safe with Air Vent Cover](https://www.amazon.com/Elder-Hidden-Wall-Safe-Cover/dp/B0CGVRWHY6) | Disguised as an air vent; easy to install; combination lock; fits between 16" studs. | $149.99 |
-| ![Marcree 3.0 Cubic Feet Home Safe](images/marcree-home-safe.jpg) | [Marcree 3.0 Cubic Feet Home Safe](https://www.amazon.com/Marcree-Compartment-Removable-Adjustable-Accessories/dp/B0CC8G4GN7) | Spacious 3.0 cubic feet capacity; fireproof and waterproof; removable shelves and interior compartments for organized storage. | $399.99 |
-| ![TAHOE TRAILS Book Safe with Key Lock](images/tahoe-trails-book-safe.jpg) | [TAHOE TRAILS Book Safe with Key Lock](https://www.amazon.com/TAHOE-TRAILS-Tahoe-trails-safe/dp/B09BCGS4MF) | Disguised as a book; compact steel safe; key lock; ideal for storing money, passports, jewellery, and more. | $13.99 |
+Here are some home safes from reputable manufacturers at varying price points:
+
+| Image | Manufacturer | Model | Description | Price |
+|-------|--------------|-------|-------------|-------|
+| ![Chubbsafes DuoGuard](images/DuoGuard-M60-KL-004720x720-3.png.webp) | [Chubbsafes](https://www.chubbsafes.com/) (UK, est. 1818) | [DuoGuard Grade 1](https://www.chubbsafes.com/en/products/duoguard/) | EN 1143-1 Grade 1 (£10,000 cash / £100,000 valuables) + EN 1047-1 fire (60 min). Dualite torch-resistant barrier, T200X carbide anti-drill plates, active relocker. Available 60–450 litres with key or electronic lock. | £2,000–£3,500 (~$2,500–$4,400) |
+| ![AMSEC BF1716](images/2022-BF1716E1-Open1-web.png) | [AMSEC](https://americansecuritysafes.com/) (USA, est. 1948) | [BF1716](https://americansecuritysafes.com/product/bf1716/) | UL RSC with B-rated door (½" solid steel). 3 × 1" diameter locking bolts, spring-loaded relocker, carburised hardplate. UL 60-minute fire rating (1700°F) with intumescent door seal. 2.6 cu ft, 412 lbs. Lifetime fire replacement warranty. | $2,800–$3,200 |
+| ![Burg Wächter Karat](images/Produktbild_BW_Tresore_MT_640_E_FP_ISO_r_open_4003482413609_b03_1280x.jpg.webp) | [Burg Wächter](https://burg.biz/) (Germany, est. 1920) | [Karat MT 640](https://burg.biz/en/products/mt-640-e-fp) | EN 1143-1 Grade 0 (€10,000 commercial / €40,000 private), ECB-S certified. Triple-walled body with stainless steel exterior. 7mm armoured door, 3-sided bolt locking. Key, PIN, or biometric lock options (only ECB-S certified biometric). AIS and Secured by Design approved. | €1,200–€1,700 (~$1,300–$1,900) |
+| ![Gardall FB2013](images/FB2714-G-C_WT_LH_DSC02219.jpg) | [Gardall](https://gardall.com/) (USA, est. 1950) | [FB2013](https://gardall.com/products/view/fire-safes/u-l-one-hour-fire-burglary-safes) | UL RSC burglary + UL 1-Hour fire (1700°F). 2" thick door, 3" composite body. Glass relocker, 1¼" chrome locking bolts, S&G Group II combination lock. 2.04 cu ft with adjustable shelves. | $1,600–$1,800 |
+| ![Securikey Eurograde 0](images/SFEG0015NK_03.jpg) | [Securikey](https://www.securikey.co.uk/) (UK, est. 1972) | [Eurograde 0 (015E)](https://www.securikey.co.uk/product/euro-grade-0-size-15-electronic/) | EN 1143-1 Grade 0 (£6,000 cash / £60,000 valuables). 30-minute fire protection at 750°C. VdS Class 1 electronic lock, 3-way square bolt locking, 205° door opening. Double-walled steel body with base and rear anchor points. | £870–£1,150 (~$1,100–$1,450) |
 
 Or, you could seal everything in a mason jar to bury on your land 😊
 
@@ -191,6 +193,7 @@ Here are some recommended desk safe options available on Amazon:
 | ![Amazon Basics Steel Security Safe and Lock Box](images/amazonbasics-security-safe.jpg) | [Amazon Basics Steel Security Safe and Lock Box](https://www.amazon.com/Amazon-Basics-Security-Electronic-Keypad/dp/B00UG9HB1Q) | Electronic keypad with backup key; 0.5 cubic feet capacity; suitable for securing cash, jewellery, and ID documents. | $49.99 |
 | ![Master Lock 5900D Portable Personal Safe](images/masterlock-portable-safe.jpg) | [Master Lock 5900D Portable Personal Safe](https://www.amazon.com/Master-Lock-Portable-Personal-5900D/dp/B005K6JQXQ) | Portable safe with combination lock; includes cable to secure to fixed objects; ideal for securing small valuables. | $27.99 |
 | ![Amazon Basics Small Slim Desk Drawer Security Safe](images/91RCwYk13UL._AC_SL1500_.jpg) | [Amazon Basics Small Slim Desk Drawer Security Safe](https://www.amazon.com/Amazon-Basics-Security-Programmable-Electronic/dp/B078WPCQWK) | Slim design fits conveniently inside a drawer; programmable electronic keypad; emergency backup key included. | $48.24 |
+| ![TAHOE TRAILS Book Safe with Key Lock](images/tahoe-trails-book-safe.jpg) | [TAHOE TRAILS Book Safe with Key Lock](https://www.amazon.com/TAHOE-TRAILS-Tahoe-trails-safe/dp/B09BCGS4MF) | Disguised as a book; compact steel safe; key lock; ideal for storing money, passports, jewellery, and more. | $13.99 |
 
 
 ## Shopping List
