@@ -204,6 +204,8 @@ I have picked these for the widest compatibility, and Keystone especially becaus
 
 You can use any three you want, if they work with your signing tablets. They ought to be different makes to diversify risk. 
 
+Hardware wallet companies, especially Ledger, have [repeatedly](https://www.bleepingcomputer.com/news/security/ledger-customers-impacted-by-third-party-global-e-data-breach/) [leaked](https://www.bitdefender.com/en-us/blog/hotforsecurity/hacker-publishes-stolen-email-and-mailing-addresses-of-270000-ledger-cryptocurrency-wallet-users) [customer](https://www.dlnews.com/articles/web3/ledger-payments-partner-global-e-leaks-customer-data/) [addresses](https://www.bleepingcomputer.com/news/security/trezor-support-site-breach-exposes-personal-data-of-66-000-customers/), making it easy for criminals to [find people worth robbing](https://cryptopotato.com/ledger-users-targeted-in-phishing-scam-following-global-e-data-breach/). You should consider not ordering these directly to your home address.
+
 [Diceware](https://github.com/dstodolny/BIP39-diceware) is a command-line alternative for creating seed phrases with dice.
 
 | Image | Name | Features | Price |
