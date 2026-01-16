@@ -327,6 +327,19 @@ Reduce your risk of sending funds to the wrong addresses by giving an [ENS domai
 Remember ENS names are public on-chain.
 
 
+## Annual Maintainance Checklist
+
+1. Check hardware wallets and signing devices
+	1. PIN/login works
+	2. Software updates applied
+2. Brief check-in with your **Guardians***. Confirm they still have your backup plates and know the handover conditions.
+3. Visit the **Stash**
+	1. Check arrangements are on file with the provider (if any)
+	2. Inspect tamper evident seals on backup plates. Check for serial number mismatches.
+4. Check with your **Legal** that they are still holding your letters and will
+5. Update will and letters
+6. Remind executor/heirs of your crypto and how it would come to them
+
 ## Failure and Recovery
 
 Here you can see how to recover from anything short of the destruction of your city, or a large conspiracy against you by your friends and lawyers.
@@ -372,7 +385,7 @@ Avoid bringing all your signing wallets together in the same place.
 1. Find a new friend 🙂
 2. Treat as a **Single Wallet Loss**
 3. Send them the backup plate
-3. Destroy your own copy of the seedphrase
+4. Destroy your own copy of the seedphrase
 
 ## Compromise of Personal Passphrase
 
