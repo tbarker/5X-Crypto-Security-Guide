@@ -47,7 +47,7 @@ Get up, shower, get dressed, have breakfast. Take out their phone and grab a har
 
 Go to the living room. Retrieve a second hardware wallet and a dedicated tablet from a desk safe, scrutinise and sign the earlier transaction.
 
-Cycle to their co-working office. Pull a second little tablet from their locker. Get the last hardware wallet. Give it one last look, and finally execute it.
+Cycle to their co-working space. Pull a second little tablet from their locker. Get the last hardware wallet. Give it one last look, and finally execute it.
 
 Not something to do every day or for small amounts. But a perfectly acceptable ritual every other month.
 
@@ -132,9 +132,15 @@ Just where you wake up every day. Try to keep its location off the internet. You
 ![A home](images/home.jpg)
 
 
-### Office 📤
+### Offsite 📤
 
 Somewhere you can work which is available during normal hours. It should have independent security and be at least 20 minutes from your **Home**. It will need a **Desk Safe**. A co-working space, or your small business if you have one, or even, a gym club.
+
+By independent security, we simply mean something that would be off-putting to an attacker. A 24/7 guard, an alarm system, CCTV – simply something that would make a reasonable person think twice.
+
+If you don't have a place you go to regularly, for example you just have a home office, why not simply get a safety deposit box reasonably close to your home. It will have strong independent security and you can sign your transactions in the viewing area.
+
+Coworking spaces in [fancy buildings](https://www.foraspace.com/london-workspaces/24-25-the-shard) will often have "excessive" security because of the other businesses in the building.
 
 ![Office](images/office.jpg)
 
@@ -228,7 +234,7 @@ Hardware wallet companies, especially Ledger, have [repeatedly](https://www.blee
 | ![OneKey Pro](images/onekey-pro.png) | [OneKey Pro](https://onekey.so/products/onekey-pro/) | 3.5" color touchscreen; 4× EAL 6+ Secure Elements; air-gapped with Bluetooth/USB-C/NFC; fingerprint unlock; supports 100+ chains and 30,000+ coins; open-source firmware. | $278.00 |
 | ![AirGap Vault **](images/airgap-vault.png) | [AirGap Vault](https://airgap.it/offline-device/) | Free app for iOS/Android; air-gapped via QR codes; dice roll & coin flip entropy; Shamir social recovery; secure enclave storage with biometrics; supports BTC, ETH, DOT, XTZ, and more; open-source. | Free |
 
-And an honourable mention to the [Grid+ Lattice](https://gridplus.io/products/grid-lattice1). Well worth considering for your **Office** if you have multiple wallets to manage.
+And an honourable mention to the [Grid+ Lattice](https://gridplus.io/products/grid-lattice1). Well worth considering for your **Offsite** if you have multiple wallets to manage.
 
 (Ledger has dropped off this list due to multiple customer data breaches and imposing [extra charges for basic multisig](https://www.theblock.co/post/376083/ledgers-new-native-multisig-rollout-sparks-criticism-over-cash-cow-fee-model) functionality.)
 
@@ -249,13 +255,13 @@ Use your phone as the signing device for the **Personal** wallet to avoid an add
 
 You don't have to use the specific software in the Setup Guide, but do not use the Safe Vault Web interface for everything. That's how [ByBit lost over a billion dollars](https://www.nccgroup.com/us/research-blog/in-depth-technical-analysis-of-the-bybit-hack/)!
 
-Keep all your bookkeeping on your **Home** or **Office** device. Don't walk around with evidence of your holdings. ([Rotki](https://rotki.com) is great for portfolio tracking, [buy a license](https://rotki.com/checkout/pay)!)
+Keep all your bookkeeping on your **Home** or **Offsite** device. Don't walk around with evidence of your holdings. ([Rotki](https://rotki.com) is great for portfolio tracking, [buy a license](https://rotki.com/checkout/pay)!)
 
 ### Other Stuff
 
 | Name | Purpose | Cost |
 |------|---------|------|
-| AirTag(s) | Track the **Personal** hardware wallet in case of loss. Maybe **Home** and **Office** if you are worried about them. | $29–35 |
+| AirTag(s) | Track the **Personal** hardware wallet in case of loss. Maybe **Home** and **Offsite** if you are worried about them. | $29–35 |
 | Keyring hoops | Attach hardware wallets to chains and other security measures. Just get a variety bag. | $5–10 |
 | Long chains | Physically secure hardware wallets to desks or safes to prevent theft or accidental/lazy removal. | $15–30 |
 | Keyring toy | It will make your hardware key much much harder to lose. | $5–15 |
@@ -273,14 +279,14 @@ Every time you create a seed phrase, stamp it into a back up **Steel Plate**.
 1. Pick your two passphrases
 2. Include your **Static** passphrase in a Letter of Wishes alongside your Will.
 3. Include your **Static** passphrase in a Letter of Instruction for your Power of Attorney.
-4. Mark the iOS device as **Home**, and the Android Tablet as Office. Use them *only with their associated location's hardware* wallet from now on.
+4. Mark the iOS device as **Home**, and the Android Tablet as **Offsite**. Use them *only with their associated location's hardware* wallet from now on.
 5. Set up Keystone wallet using **Personal** passphrase.
 6. Epoxy a keychain with the small toy and AirTag to the Keystone.
 7. Use [Keystone Dice Mode](https://guide.keyst.one/docs/dice-roll) and **Static** passphrase to set up a second Keystone wallet, called **Guardian** A.
 8. Use Keystone Dice Mode and the **Static** passphrase to set up a third Keystone wallet, called **Guardian** B.
-9. Set up Trezor as your **Office** wallet.
+9. Set up Trezor as your **Offsite** wallet.
 10. Set up OneKey as your **Home** wallet.
-11. On your Android Wallet:
+11. On your Android Tablet:
 	1. Install [Rabby Wallet](https://rabby.io)
 12. On your iOS:
 	1. Install [Metamask Mobile](https://metamask.io/en-GB/download)
@@ -295,8 +301,8 @@ Every time you create a seed phrase, stamp it into a back up **Steel Plate**.
 15. You can now bag each of your backup plates in a tamper-proof bag. They'll have serial numbers on the seals, write them down somewhere.
 16. Put the backup plate for your **Personal** in your **Home Safe.**
 17. Attach your **Home** wallet, e.g., the OneKey, to a desk using the chain, preferably out of sight in a **Desk Safe** of some sort.
-18. Take your **Office** wallet, and the Android Tablet to your **Office** location and do similarly there.
-19. Gather up the **Office** and **Home** backup plates and take them to your **Stash**. Make sure they have your contingency plans for death or incapacity on file.
+18. Take your **Offsite** wallet, and the Android Tablet to your **Offsite** location and do similarly there.
+19. Gather up the **Offsite** and **Home** backup plates and take them to your **Stash**. Make sure they have your contingency plans for death or incapacity on file.
 20. Deliver each of the **Guardian** backup plates to their respective **Guardians**.
 21. Collect the spare materials including the spare phone and put them somewhere safe.
 
@@ -334,7 +340,7 @@ If you lose a device, it's best to replace it if you don't know where it is. It'
 
 ### Loss of all hardware wallets
 
-This is if your **Home**, **Office**, and **Personal** locations are all unavailable. This is also the scenario that your agent (either your heirs or your attorney) will face.
+This is if your **Home**, **Offsite**, and **Personal** locations are all unavailable. This is also the scenario that your agent (either your heirs or your attorney) will face.
 
 Avoid bringing all your signing wallets together in the same place.
 
@@ -351,7 +357,7 @@ Avoid bringing all your signing wallets together in the same place.
 
 1. Get a new **Stash** (or at least a new mason jar in your garden for the time being)
 2. Treat **Home** as a **Single Wallet Loss**
-3. Treat **Office** as a **Single Wallet Loss**
+3. Treat **Offsite** as a **Single Wallet Loss**
 
 ## Variants
 
@@ -378,7 +384,7 @@ If you really want to be the only person with access to your assets, you only ne
 
 * **Personal** becomes CEO.
 * **Home** becomes CFO.
-* **Office** becomes COO.
+* **Offsite** becomes COO (or another C-suite member).
 
 ![Team](images/team.jpg)
 
