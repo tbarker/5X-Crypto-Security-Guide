@@ -43,11 +43,11 @@ To start this guide you should understand:
 
 When a 5X Security Implementer decides to access their funds, their day might look roughly like this:
 
-Get up, shower, get dressed, have breakfast. Take out their phone and grab a hardware wallet, set-up a transaction on a multisig wallet. Read the newspaper.
+Get up, shower, get dressed, have breakfast. Take out their phone and grab a hardware wallet, set up a transaction on a multisig wallet. Read the newspaper.
 
 Go to the living room. Retrieve a second hardware wallet and a dedicated tablet from a desk safe, scrutinise and sign the earlier transaction.
 
-Cycle to their co-working space. Pull a second little tablet from their locker. Get the last hardware wallet. Give it one last look, and finally execute it.
+Cycle to their co-working space. Pull a second tablet from their locker. Get the last hardware wallet. Give it one last look, and finally execute it.
 
 Not something to do every day or for small amounts. But a perfectly acceptable ritual every other month.
 
@@ -90,7 +90,7 @@ We will use two different passphrases:
 - **Personal**, this will be lost with you if you die or are incapacitated.
 - **Static**, which will be shared after your death or incapacity with whoever needs to deal with your assets.
 
-These both *must* be memorable to you. You will need to enter them regularly to make transactions and it is not safe to keep them written down. It is even less safe to store them in password managers. Password managers are frequently targetted.
+These both *must* be memorable to you. You will need to enter them regularly to make transactions and it is not safe to keep them written down. It is even less safe to store them in password managers. Password managers are frequently targeted.
 
 Don't confuse passphrases with the PIN to unlock your hardware wallet. PINs just control their own individual bit of hardware. 
 
@@ -150,9 +150,9 @@ Coworking spaces in [fancy buildings](https://www.foraspace.com/london-workspace
 
 ### Guardian A/B 🫂
 
-Have two trustworthy independent friends. They will each hold one of your steel backup plates.
+Have two trustworthy independent friends. They will each hold one of your backup plates.
 
-They should know the circumstances under which they should hand over their steel plate, e.g., to you in person, not distressed nor intoxicated, or to your heirs if you are dead, or your attorney if you are incapable. They do not need to be technical at all.
+They should know the circumstances under which they should hand over their backup plate, e.g., to you in person, not distressed nor intoxicated, or to your heirs if you are dead, or your attorney if you are incapable. They do not need to be technical at all.
 
 ![Friend protecting with sword](images/guardian.jpg)
 
@@ -199,7 +199,7 @@ Here are some home safes from reputable manufacturers at varying price points:
 | ![Gardall FB2013](images/FB2714-G-C_WT_LH_DSC02219.jpg) | [Gardall](https://gardall.com/) (USA, est. 1950) | [FB2013](https://gardall.com/products/view/fire-safes/u-l-one-hour-fire-burglary-safes) | UL RSC burglary + UL 1-Hour fire (1700°F). 2" thick door, 3" composite body. Glass relocker, 1¼" chrome locking bolts, S&G Group II combination lock. 2.04 cu ft with adjustable shelves. | $1,600–$1,800 |
 | ![Securikey Eurograde 0](images/SFEG0015NK_03.jpg) | [Securikey](https://www.securikey.co.uk/) (UK, est. 1972) | [Eurograde 0 (015E)](https://www.securikey.co.uk/product/euro-grade-0-size-15-electronic/) | EN 1143-1 Grade 0 (£6,000 cash / £60,000 valuables). 30-minute fire protection at 750°C. VdS Class 1 electronic lock, 3-way square bolt locking, 205° door opening. Double-walled steel body with base and rear anchor points. | £870–£1,150 (~$1,100–$1,450) |
 
-Or, you could seal everything in a mason jar to bury on your land 😊
+Or, you could seal everything in a mason jar to bury on your land 😊 It will be perfectly safe, if a little inaccessible.
 
 ![Mason Jar](images/mason.jpg)
 
@@ -243,7 +243,7 @@ And an honourable mention to the [Grid+ Lattice](https://gridplus.io/products/gr
 
 (Ledger has dropped off this list due to multiple customer data breaches and imposing [extra charges for basic multisig](https://www.theblock.co/post/376083/ledgers-new-native-multisig-rollout-sparks-criticism-over-cash-cow-fee-model) functionality.)
 
-We will also need 6 × **Steel Plates** for seed phrase backup (+ 1 spare) (pick [something from here](https://jlopp.github.io/metal-bitcoin-storage-reviews/?ref=blog.lopp.net), but they're all basically Steel Plates 🙂)
+We will also need 6 × Steel Plates for seed phrase backup (+ 1 spare) (pick [something from here](https://jlopp.github.io/metal-bitcoin-storage-reviews/?ref=blog.lopp.net), but they're all basically Steel Plates 🙂)
 
 ![Steel plate](images/steel.jpg)
 
@@ -272,15 +272,15 @@ Keep all your bookkeeping on your **Home** or **Offsite** device. Don't walk aro
 | Keyring toy | It will make your hardware key much much harder to lose. | $5–15 |
 | Super Glue / Epoxy | Bind chains, toys and AirTags to hardware wallets and cases. | $10–20 |
 | Single six-sided casino dice | Generate truly random numbers for wallets. Casino dice ensure better randomness. | $5–15 |
-| Tamper evident bags | See if anyone might have looked at a **Steel Plate**. | $20–40 for pack |
+| Tamper evident bags | See if anyone might have looked at a backup plate. | $20–40 for pack |
 | Sticky Labels | Clearly mark all items to avoid confusion. | $5–10 |
-| Notebook | You will need to write things down as you go | $2-15 |
+| Notebook | You will need to write things down as you go | $2–15 |
 
 ## Setup Guide
 
 Every time you use something for the first time, **label it clearly**.
 
-Every time you create a seed phrase, stamp it into a backup **Steel Plate**.
+Every time you create a seed phrase, stamp it into a backup plate.
 
 As previously mentioned, I'm presuming we are using the Keystone with Dice Mode as our **Personal** wallet. If using AirGap Vault, adjust accordingly.
 
@@ -327,16 +327,16 @@ Reduce your risk of sending funds to the wrong addresses by giving an [ENS domai
 Remember ENS names are public on-chain.
 
 
-## Annual Maintainance Checklist
+## Annual Maintenance Checklist
 
 1. Check hardware wallets and signing devices
 	1. PIN/login works
 	2. Software updates applied
-2. Brief check-in with your **Guardians***. Confirm they still have your backup plates and know the handover conditions.
+2. Brief check-in with your **Guardians**. Confirm they still have your backup plates and know the handover conditions.
 3. Visit the **Stash**
 	1. Check arrangements are on file with the provider (if any)
 	2. Inspect tamper evident seals on backup plates. Check for serial number mismatches.
-4. Check with your **Legal** that they are still holding your letters and will
+4. Check with your **Legal** that they are still holding your letters and Will
 5. Update will and letters
 6. Remind executor/heirs of your crypto and how it would come to them
 
@@ -352,7 +352,7 @@ If you lose a device, it's best to replace it if you don't know where it is. Ext
 2. Retrieve the appropriate backup plate, and clearly label it as "Void".
 3. Install Metamask Mobile (or suitable crypto wallet app) on the **Spare Phone**.
 4. Use the phone as a replacement for the lost wallet.
-5. When the new wallet arrives, set it up as a new wallet, using your spare steel plate for the backup.
+5. When the new wallet arrives, set it up as a new wallet, using your spare backup plate.
 6. Replace your old wallet (now on your phone), with the new wallet (on your new hardware wallet) on each of your **Holdings** multi-sigs.
 7. Send spare assets from the old wallet on your phone into the multisig.
 8. Put the *new backup plate* in the location of the old one.
@@ -366,13 +366,13 @@ This is if your **Home**, **Offsite**, and **Personal** locations are all unavai
 Avoid bringing all your signing wallets together in the same place.
 
 1. Buy new hardware wallets.
-2. If you are able, retrieve your backup steel plate from your **Home Safe**. If not, contact one of your **Guardians**.
-3. Retrieve the steel plates from your **Stash**.
-4. If you took the steel plate from your **Home Safe**, you can simply restore everything back to normal.
-5. If you used a **Guardian**'s backup steel plate, you should restore *that* wallet to the spare phone, and then treat your **Personal** as a **Single Wallet Loss**.
+2. If you are able, retrieve your backup plate from your **Home Safe**. If not, contact one of your **Guardians**.
+3. Retrieve the backup plates from your **Stash**.
+4. If you took the backup plate from your **Home Safe**, you can simply restore everything back to normal.
+5. If you used a **Guardian**'s backup plate, you should restore *that* wallet to the spare phone, and then treat your **Personal** as a **Single Wallet Loss**.
 6. If the lost hardware wallets are "secure", e.g., we just don't have the PIN, then you can stop here.
 7. If the fate of the hardware wallets is unknown, e.g., someone could eventually break into them, they should each be treated as a **Single Wallet Loss**. Sorry 😢
-8. Put all the *current* backup steel plates and hardware wallets back where they should be.
+8. Put all the *current* backup plates and hardware wallets back where they should be.
 
 ### Loss of Stash Location
 
@@ -380,19 +380,19 @@ Avoid bringing all your signing wallets together in the same place.
 2. Treat **Home** as a **Single Wallet Loss**
 3. Treat **Offsite** as a **Single Wallet Loss**
 
-## Loss of Guardian
+### Loss of Guardian
 
 1. Find a new friend 🙂
 2. Treat as a **Single Wallet Loss**
 3. Send them the backup plate
 4. Destroy your own copy of the seedphrase
 
-## Compromise of Personal Passphrase
+### Compromise of Personal Passphrase
 
 1. Choose a new Personal passphrase
 2. Rotate in the addresses from the wallet derived from the new passphrase and your current Personal seedphrase as your new Personal wallet addresses.
 
-## Compromise of Static Passphrase
+### Compromise of Static Passphrase
 
 1. Treat similarly to Personal passphrase loss for:
 	1. Personal
