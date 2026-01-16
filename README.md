@@ -269,12 +269,9 @@ Every time you create a seed phrase, stamp it into a back up **Steel Plate**.
 10. Set up OneKey as your **Home** wallet.
 11. On your Android Wallet:
 	1. Install [Rabby Wallet](https://rabby.io)
-	2. Configure [1.1.1.1 for Families](https://one.one.one.one/family/)
 12. On your iOS:
 	1. Install [Metamask Mobile](https://metamask.io/en-GB/download)
 	2. Install [Safe Wallet Mobile](https://help.safe.global/en/articles/40805-connect-external-signer-key) app
-	3. Configure [1.1.1.1 for Families](https://one.one.one.one/family/)
-	4. Turn on iOS [Lockdown mode](https://support.apple.com/en-gb/guide/iphone/iph049680987/ios).
 13. For each **Holding**:
 	1. Take the next available Ethereum address from each wallet.
 	2. Fund them with suitable coins, usually ETH.
