@@ -152,7 +152,9 @@ Include the following in your Letter of Wishes:
 
 ![Will](images/rest.jpg)
 
-Pamela Morgan of Empowered Law, has written [a free inheritance letter template](https://empoweredlaw.com/letter-to-loved-ones-a-template-for-your-first-cryptoasset-inheritance-plan/) that is a great start for your own letters.
+Pamela Morgan of Empowered Law, has written [a free inheritance letter template](https://empoweredlaw.com/letter-to-loved-ones-a-template-for-your-first-cryptoasset-inheritance-plan/) that is a great start for your own letters. Remember to include an inventory of your assets, or instructions for accessing your existing inventory.
+
+Don't leave your loved ones guessing either what you left them, or what they need to do.
 
 
 ## Safes
