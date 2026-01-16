@@ -227,10 +227,11 @@ These are just for setting up and signing your transactions. Don't use them for 
 - 1 × Small iOS device
 - 1 × **Spare Phone** (Cheap emergency backup device for wallet recovery and transactions.)
 
-We will use your phone as the signing device for the **Personal** wallet to avoid an additional device.
+Use your phone as the signing device for the **Personal** wallet to avoid an additional device. But *only* if the wallet you use will not show any evidence of passphrase protected wallet. This is true for [Trezor Suite](https://trezor.io/guides/trezor-suite/using-a-passphrase-wallet-in-trezor-suite#access-a-passphrase-wallet-in-trezor-suite).
 
 You don't have to use the specific software in the Setup Guide, but do not use the Safe Vault Web interface for everything. That's how [ByBit lost over a billion dollars](https://www.nccgroup.com/us/research-blog/in-depth-technical-analysis-of-the-bybit-hack/)!
 
+Keep all your bookkeeping on your **Home** or **Office** device. Don't walk around with evidence of your holdings. ([Rotki](https://rotki.com) is great for portfolio tracking, [buy a license](https://rotki.com/checkout/pay)!)
 
 ### Other Stuff
 
