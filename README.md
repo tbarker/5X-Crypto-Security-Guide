@@ -43,7 +43,7 @@ To start this guide you should understand:
 
 When a 5X Security Implementer decides to access their funds, their day might look roughly like this:
 
-Get up, shower, get dressed, have breakfast. Take out their phone and grab a hardware wallet, setup a transaction on a multisig wallet. Read the newspaper.
+Get up, shower, get dressed, have breakfast. Take out their phone and grab a hardware wallet, set-up a transaction on a multisig wallet. Read the newspaper.
 
 Go to the living room. Retrieve a second hardware wallet and a dedicated tablet from a desk safe, scrutinise and sign the earlier transaction.
 
@@ -69,9 +69,9 @@ In doing this you should consider:
 
 Physical attacks on crypto holders do [unfortunately happen](https://www.youtube.com/watch?v=iPt1yw5o6OE). I'm not going to go into personal security and self defence here since it is not my specialism.
 
-I would say, [as cool as guns can be](https://trailblazerfirearms.com/shop/lifecard/), even if you are somewhere you can own one, perhaps a buying an [SOS locator beacon](https://www.rei.com/product/156622/acr-electronics-rescueme-plb1-personal-locator-beacon) and filling in your [Apple Emergency SOS](https://support.apple.com/en-us/101573) details is a higher priority.
+I would say, [as cool as guns can be](https://trailblazerfirearms.com/shop/lifecard/), even if you are somewhere you can own one, perhaps buying an [SOS locator beacon](https://www.rei.com/product/156622/acr-electronics-rescueme-plb1-personal-locator-beacon) and filling in your [Apple Emergency SOS](https://support.apple.com/en-us/101573) details is a higher priority.
 
-If you are at risk, it would be best to have a durress protocol with the anyone involved in safe guarding your assets. That would include any safe deposit box operator, friend who you might leave keys with, and the staff of locations you use. A good duress protocol will not only give you a way to discretely signal you are being coerced, but also what do if you are, e.g. secure your close friends and family.
+If you are at risk, it would be best to have a duress protocol with anyone involved in safeguarding your assets. That would include any safe deposit box operator, friend who you might leave keys with, and the staff of locations you use. A good duress protocol will not only give you a way to discreetly signal you are being coerced, but also what to do if you are, e.g. secure your close friends and family.
 
 [Jameson Lopp](https://blog.casa.io/author/jameson-lopp/) has a number of [excellent](https://blog.casa.io/the-bitcoiners-guide-to-physical-security/) [articles](https://blog.casa.io/a-home-defense-primer/) on physical security.
 
@@ -156,7 +156,7 @@ They should **not know** your **Static** passphrase nor who the other one is. Ch
 
 ### Legal 👩‍⚖️
 
-Someone who will hold Will and your Letter of Wishes/Instruction, ensuring they are passed to the correct people in the event of your death or an accident that incapacitates you. Note that Wills become public after probate, so use your Letter of Wishes for secrets.
+Someone who will hold your Will and your Letter of Wishes/Instruction, ensuring they are passed to the correct people in the event of your death or an accident that incapacitates you. Note that Wills become public after probate, so use your Letter of Wishes for secrets.
 
 You don't need to engage a blue-ribbon law firm. The consumer charity Which? runs [an online service](https://whichwills.which.co.uk) in the UK. Have a look around for what's available to you.
 
@@ -169,7 +169,7 @@ Include the following in your Letter of Wishes:
 
 ![Will](images/rest.jpg)
 
-Pamela Morgan of Empowered Law, has written [a free inheritance letter template](https://empoweredlaw.com/letter-to-loved-ones-a-template-for-your-first-cryptoasset-inheritance-plan/) that is a great start for your own letters. Remember to include an inventory of your assets, or instructions for accessing your existing inventory.
+Pamela Morgan of Empowered Law has written [a free inheritance letter template](https://empoweredlaw.com/letter-to-loved-ones-a-template-for-your-first-cryptoasset-inheritance-plan/) that is a great start for your own letters. Remember to include an inventory of your assets, or instructions for accessing your existing inventory.
 
 Don't leave your loved ones guessing either what you left them, or what they need to do.
 
@@ -268,13 +268,13 @@ Keep all your bookkeeping on your **Home** or **Offsite** device. Don't walk aro
 | Super Glue / Epoxy | Bind chains, toys and AirTags to hardware wallets and cases. | $10–20 |
 | Single six-sided casino dice | Generate truly random numbers for wallets. Casino dice ensure better randomness. | $5–15 |
 | Tamper evident bags | See if anyone might have looked at a **Steel Plate**. | $20–40 for pack |
-| Sticky Labels | Clearly mark all items to avoid confusions. | $5–10 |
+| Sticky Labels | Clearly mark all items to avoid confusion. | $5–10 |
 
 ## Setup Guide
 
 Every time you use something for the first time, **label it clearly**.
 
-Every time you create a seed phrase, stamp it into a back up **Steel Plate**.
+Every time you create a seed phrase, stamp it into a backup **Steel Plate**.
 
 1. Pick your two passphrases
 2. Include your **Static** passphrase in a Letter of Wishes alongside your Will.
@@ -328,14 +328,14 @@ Here you can see how to recover from anything short of the destruction of your c
 If you lose a device, it's best to replace it if you don't know where it is. It's extremely expensive to extract the data from most hardware wallets, but also hardware wallets are fairly cheap.
 
 1. Order a new hardware wallet of the same type.
-2. Retrieve the appropriate back-up plate, and clearly label it as "Void".
+2. Retrieve the appropriate backup plate, and clearly label it as "Void".
 3. Install Metamask Mobile (or suitable crypto wallet app) on the **Spare Phone**.
 4. Use the phone as a replacement for the lost wallet.
 5. When the new wallet arrives, set it up as a new wallet, using your spare steel plate for the backup.
 6. Replace your old wallet (now on your phone), with the new wallet (on your new hardware wallet) on each of your **Holdings** multi-sigs.
 7. Send spare assets from the old wallet on your phone into the multisig.
 8. Put the *new backup plate* in the location of the old one.
-9. Put the old backup plate in a drawer somewhere. It doesn't really matter any more.
+9. Put the old backup plate in a drawer somewhere. It doesn't really matter anymore.
 10. Wipe the **Spare Phone** and store it away.
 
 ### Loss of all hardware wallets
@@ -390,4 +390,4 @@ If you really want to be the only person with access to your assets, you only ne
 
 ### HODL Forever
 
-You can simply wipe all the hardware wallets after set-up. Although in this case it might be better to use a [Shamir Secret Sharing scheme](https://cryptotag.io/blog/shamirs-secret-sharing-backup/), which creates multiple key fragments that can later be recombined, as you are only planning to access the assets once.
+You can simply wipe all the hardware wallets after setup. Although in this case it might be better to use a [Shamir Secret Sharing scheme](https://cryptotag.io/blog/shamirs-secret-sharing-backup/), which creates multiple key fragments that can later be recombined, as you are only planning to access the assets once.
