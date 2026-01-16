@@ -208,7 +208,7 @@ You can use any three you want, if they work with your signing tablets. They oug
 
 | Image | Name | Features | Price |
 |-------|------|----------|-------|
-| ![Trezor Safe 5](images/trezor-safe-5.jpg) | [Trezor Safe 5](https://trezor.io/trezor-safe-5-black-graphite) | 1.54" color touchscreen with haptic feedback; Secure Element (EAL 6+); supports thousands of coins and tokens; integrates with Trezor Suite app. | $179.00 |
+| ![Trezor Safe 7](images/trezor-safe-7.jpg) | [Trezor Safe 7](https://trezor.io/trezor-safe-7) | 2.5" color touchscreen with Gorilla® Glass; Dual Secure Element (TROPIC01 + EAL 6+); Bluetooth & Qi2 wireless charging; IP67 water resistant; supports thousands of coins and tokens; integrates with Trezor Suite app. | $169.00 |
 | ![Ledger Flex](images/ledger-flex.jpg) | [Ledger Flex](https://shop.ledger.com/products/ledger-flex/graphite) | 2.84" E Ink® touchscreen; Bluetooth and USB-C connectivity; customizable lock screen; supports over 7,000 coins and tokens; integrates with Ledger Live app. | $199.00 |
 | ![Keystone 3 Pro](images/keystone-3-pro.jpg) | [Keystone 3 Pro](https://shop.keyst.one/products/keystone-3-pro) | 4-inch touchscreen; air-gapped security; open-source firmware; supports multiple crypto accounts; compatible with MetaMask and other wallets. | $149.00 |
 
