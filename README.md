@@ -278,7 +278,6 @@ Every time you create a seed phrase, stamp it into a back up **Steel Plate**.
 	3. Use one of them to create a 5/5 [Safe Vault multisig](https://safe.global/).
 	4. Record the address of the multisig, and add it to all the address books in your other devices.
 	5. Set it to a 3/5 multisig.
-	6. Do whatever extra testing you need to feel confident.
 14. **Wipe the Guardian wallets from your Keystone.**
 15. You can now bag each of your backup plates in a tamper-proof bag. They'll have serial numbers on the seals, write them down somewhere.
 16. Put the backup plate for your **Personal** in your **Home Safe.**
