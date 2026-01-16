@@ -65,6 +65,17 @@ In doing this you should consider:
 - Visibility
 - Taint from a hack / impropriety
 
+## Brief note on personal security
+
+Physical attacks on crypto holders do [unfortunately happen](https://www.youtube.com/watch?v=iPt1yw5o6OE). I'm not going to go into personal security and self defence here since it is not my specialism.
+
+I would say, [as cool as guns can be](https://trailblazerfirearms.com/shop/lifecard/), even if you are somewhere you can own one, perhaps a buying an [SOS locator beacon](https://www.rei.com/product/156622/acr-electronics-rescueme-plb1-personal-locator-beacon) and filling in your [Apple Emergency SOS](https://support.apple.com/en-us/101573) details is a higher priority.
+
+If you are at risk, it would be best to have a durress protocol with the anyone involved in safe guarding your assets. That would include any safe deposit box operator, friend who you might leave keys with, and the staff of locations you use. A good duress protocol will not only give you a way to discretely signal you are being coerced, but also what do if you are, e.g. secure your close friends and family.
+
+[Jameson Lopp](https://blog.casa.io/author/jameson-lopp/) has a number of [excellent](https://blog.casa.io/the-bitcoiners-guide-to-physical-security/) [articles](https://blog.casa.io/a-home-defense-primer/) on physical security.
+
+
 ## Passphrases
 
 A passphrase is an optional, advanced security feature that allows you to create a new wallet by adding an additional word to a 12–24 seed phrase.
