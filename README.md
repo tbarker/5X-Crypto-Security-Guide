@@ -82,7 +82,7 @@ A passphrase is an optional, advanced security feature that allows you to create
 
 With passphrases you can have one single seed with multiple different wallets. Each passphrase unlocks a different wallet.
 
-We use a passphrase to protect each wallet. Without it, **Guardians** or people protecting your **Stash** (explained later) cannot access your wallets using the backup plates alone.
+We use a passphrase to protect each wallet so that neither **Guardians** nor the people protecting your **Stash** (explained later) can access your wallets using the backup plates alone.
 
 We will use two different passphrases:
 - **Personal**, this will be lost with you if you die or are incapacitated.
@@ -121,7 +121,7 @@ In most jurisdictions, the existence of this box will be disclosed to the author
 
 ![Widow opening bank box](images/widow.jpg)
 
-You could dig a deep hole in the local forest that's described to your heirs. Do what works for you, but don't complain if a treasure hunter digs it up in a few years 😊
+You could dig a deep hole in the local forest and leave a map to your heirs. Do what works for you, but don't complain if a treasure hunter digs it up in a few years 😊
 
 You won't need to visit the **Stash** very often, so why not place it at a safe distance from your home? Worried about over-aggressive authorities? Why not choose another country?
 
@@ -171,8 +171,7 @@ Include the following in your Letter of Wishes:
 
 Pamela Morgan of Empowered Law has written [a free inheritance letter template](https://empoweredlaw.com/letter-to-loved-ones-a-template-for-your-first-cryptoasset-inheritance-plan/) that is a great start for your own letters. Remember to include an inventory of your assets, or instructions for accessing your existing inventory.
 
-Don't leave your loved ones guessing either what you left them, or what they need to do.
-
+Don't leave your loved ones guessing what you left them or what they need to do.
 
 ## Safes
 
@@ -251,7 +250,7 @@ These are just for setting up and signing your transactions. Don't use them for 
 - 1 × Small iOS device
 - 1 × **Spare Phone** (Cheap emergency backup device for wallet recovery and transactions.)
 
-Use your phone as the signing device for the **Personal** wallet to avoid an additional device. But *only* if the wallet you use will not show any evidence of passphrase protected wallet. This is true for [Trezor Suite](https://trezor.io/guides/trezor-suite/using-a-passphrase-wallet-in-trezor-suite#access-a-passphrase-wallet-in-trezor-suite).
+Use your phone as the signing device for the **Personal** wallet to avoid an additional device. But only if the wallet app you use won't show any evidence of a passphrase-protected wallet. This is true for [Trezor Suite](https://trezor.io/guides/trezor-suite/using-a-passphrase-wallet-in-trezor-suite#access-a-passphrase-wallet-in-trezor-suite).
 
 You don't have to use the specific software in the Setup Guide, but do not use the Safe Vault Web interface for everything. That's how [ByBit lost over a billion dollars](https://www.nccgroup.com/us/research-blog/in-depth-technical-analysis-of-the-bybit-hack/)!
 
@@ -261,7 +260,7 @@ Keep all your bookkeeping on your **Home** or **Offsite** device. Don't walk aro
 
 | Name | Purpose | Cost |
 |------|---------|------|
-| AirTag(s) | Track the **Personal** hardware wallet in case of loss. Maybe **Home** and **Offsite** if you are worried about them. | $29–35 |
+| AirTag(s) | Track the **Personal** hardware wallet in case of loss. Maybe **Home** and **Offsite** if you are worried about them being stolen. | $29–35 |
 | Keyring hoops | Attach hardware wallets to chains and other security measures. Just get a variety bag. | $5–10 |
 | Long chains | Physically secure hardware wallets to desks or safes to prevent theft or accidental/lazy removal. | $15–30 |
 | Keyring toy | It will make your hardware key much much harder to lose. | $5–15 |
@@ -279,7 +278,7 @@ Every time you create a seed phrase, stamp it into a backup **Steel Plate**.
 1. Pick your two passphrases
 2. Include your **Static** passphrase in a Letter of Wishes alongside your Will.
 3. Include your **Static** passphrase in a Letter of Instruction for your Power of Attorney.
-4. Mark the iOS device as **Home**, and the Android Tablet as **Offsite**. Use them *only with their associated location's hardware* wallet from now on.
+4. Mark the iOS device as **Home**, and the Android Tablet as **Offsite**. Use them *only* with their associated location's hardware wallet from now on.
 5. Set up Keystone wallet using **Personal** passphrase.
 6. Epoxy a keychain with the small toy and AirTag to the Keystone.
 7. Use [Keystone Dice Mode](https://guide.keyst.one/docs/dice-roll) and **Static** passphrase to set up a second Keystone wallet, called **Guardian** A.
@@ -294,15 +293,15 @@ Every time you create a seed phrase, stamp it into a backup **Steel Plate**.
 13. For each **Holding**:
 	1. Take the next available Ethereum address from each wallet.
 	2. Fund them with suitable coins, usually ETH.
-	3. Use one of them to create a 5/5 [Safe Vault multisig](https://safe.global/).
+	3. Use one of the wallets to create a 5/5 [Safe Vault multisig](https://safe.global/).
 	4. Record the address of the multisig, and add it to all the address books in your other devices.
 	5. Set it to a 3/5 multisig.
 14. **Wipe the Guardian wallets from your Keystone.**
-15. You can now bag each of your backup plates in a tamper-proof bag. They'll have serial numbers on the seals, write them down somewhere.
+15. You can now bag each of your backup plates in a tamper-proof bag. They'll have serial numbers on the seals — write them down somewhere.
 16. Put the backup plate for your **Personal** in your **Home Safe.**
 17. Attach your **Home** wallet, e.g., the OneKey, to a desk using the chain, preferably out of sight in a **Desk Safe** of some sort.
 18. Take your **Offsite** wallet, and the Android Tablet to your **Offsite** location and do similarly there.
-19. Gather up the **Offsite** and **Home** backup plates and take them to your **Stash**. Make sure they have your contingency plans for death or incapacity on file.
+19. Gather up the **Offsite** and **Home** backup plates and take them to your **Stash**. Make sure any Stash provider have your contingency plans for death or incapacity on file.
 20. Deliver each of the **Guardian** backup plates to their respective **Guardians**.
 21. Collect the spare materials including the spare phone and put them somewhere safe.
 
@@ -314,7 +313,7 @@ Have a glitter bomb in the decoy desk safe, [a few decoy wallets](https://x.com/
 
 ### ENS Names (optional)
 
-Reduce your risk of sending funds to the wrong addresses by giving an [ENS domain](https://support.ens.domains/en/articles/7900404-what-is-ens) to *each* **Holding**, with sub-domains for each address that **Holding** regularly interacts with. For example, `kraken-deposit.wibble-womble.eth`.
+Reduce your risk of sending funds to the wrong addresses by giving an [ENS domain](https://support.ens.domains/en/articles/7900404-what-is-ens) to *each* **Holding**, with sub-domains for each address that the **Holding** regularly interacts with. For example, `kraken-deposit.wibble-womble.eth`.
 
 Remember ENS names are public on-chain.
 
@@ -325,7 +324,7 @@ Here you can see how to recover from anything short of the destruction of your c
 
 ### Single Wallet Loss
 
-If you lose a device, it's best to replace it if you don't know where it is. It's extremely expensive to extract the data from most hardware wallets, but also hardware wallets are fairly cheap.
+If you lose a device, it's best to replace it if you don't know where it is. Extracting data from hardware wallets is extremely expensive, and hardware wallets themselves are fairly cheap anyway.
 
 1. Order a new hardware wallet of the same type.
 2. Retrieve the appropriate backup plate, and clearly label it as "Void".
